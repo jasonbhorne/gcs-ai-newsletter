@@ -1,0 +1,85 @@
+{
+  "month_year": "October 2024",
+  "issue_no": 1,
+  "slug": "2024-10",
+  "hero_headline": "Welcome to the first GCS AI Newsletter: getting started, one tool at a time",
+  "intro": "This is our very first issue, and the goal is simple. Each month I want to put a few useful things in front of you so AI feels less like a buzzword and more like a tool you can actually use. This month we are covering the basics, sharing a few training videos and how-tos, and kicking off our first monthly challenge. No pressure to do everything, just pick one thing and try it.",
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "EdWeek",
+          "title": "What Students Really Need to Learn About AI",
+          "takeaway": "The smarter move is teaching AI literacy, not banning it. A solid roadmap for how schools should think about students and AI.",
+          "url": "https://www.edweek.org/technology/what-students-really-need-to-learn-about-ai"
+        },
+        {
+          "source": "Harvard Graduate School of Education",
+          "title": "Students Are Using AI Already. Here's What They Think Adults Should Know",
+          "takeaway": "Students are already using these tools, and they have opinions about how adults should respond. Worth hearing them out before we set rules.",
+          "url": "https://www.gse.harvard.edu/ideas/usable-knowledge/24/09/students-are-using-ai-already-heres-what-they-think-adults-should-know"
+        },
+        {
+          "source": "NC Dept. of Commerce",
+          "title": "Insights on Generative AI and the Future of Work",
+          "takeaway": "A plain look at how AI is reshaping the workforce our students are headed into, which is exactly why this matters for schools.",
+          "url": "https://www.commerce.nc.gov/news/the-lead-feed/generative-ai-and-future-work"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "EdSurge",
+          "title": "How an AI-Powered Tool Accelerated Student Writing",
+          "takeaway": "A real example of AI helping students move faster through the writing process without doing the thinking for them.",
+          "url": "https://www.edsurge.com/news/2023-11-27-how-an-ai-powered-tool-accelerated-student-writing"
+        },
+        {
+          "source": "Frog Street",
+          "title": "AI in Early Childhood Education: The Do's and Don'ts",
+          "takeaway": "Our youngest learners are not left out. A short, practical do and do not list for AI in early childhood settings.",
+          "url": "https://www.frogstreet.com/ai-blogs/ai-in-early-childhood-education/"
+        },
+        {
+          "source": "Edutopia",
+          "title": "How Generative AI Can Support Research-Based Math Instruction",
+          "takeaway": "AI is not just for writing. Here is how it can back up solid, research-based math instruction.",
+          "url": "https://www.edutopia.org/article/using-ai-math-instruction/"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "MIT Sloan EdTech",
+          "title": "Getting Started with AI-Enhanced Teaching: A Practical Guide for Instructors",
+          "takeaway": "If you want one place to start, start here. Be transparent with students, know the limits, and build your own AI literacy first.",
+          "url": "https://mitsloanedtech.mit.edu/ai/teach/getting-started/"
+        },
+        {
+          "source": "IBM",
+          "title": "10 ways artificial intelligence is transforming operations management",
+          "takeaway": "For the operations and data side of the house, ten concrete ways AI is changing how the work gets done.",
+          "url": "https://www.ibm.com/blog/ai-in-operations-management/"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "Getting Started with AI-Enhanced Teaching: A Practical Guide for Instructors",
+    "blurb": "If you only click one link this month, make it this one. It walks you through being honest with students about AI, naming its limits up front, and building your own comfort with the tools before you bring them into the classroom. That is exactly the mindset we want as we start this journey together.",
+    "source": "MIT Sloan EdTech",
+    "url": "https://mitsloanedtech.mit.edu/ai/teach/getting-started/"
+  },
+  "challenge": {
+    "title": "October Challenge",
+    "body": "Pick one AI tool and use it once this month for something real, whether that is drafting a parent email, building a quick rubric, or brainstorming a lesson hook. The point is not to master it. The point is to try it once and notice what it saved you. Tell a colleague how it went."
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "month_year": "February 2025",
+  "issue_no": 5,
+  "slug": "2025-02",
+  "hero_headline": "Getting to know Copilot, the AI already sitting in our Microsoft 365",
+  "intro": "This month we are leaning into Microsoft Copilot, the AI assistant that is already part of our GCS Microsoft 365 environment, so there is nothing new to buy or install. We rounded up training, real classroom use cases, and a few honest watch-outs, because the DeepSeek headlines this month were a good reminder that new and shiny is not the same as safe. Read on, try the February Challenge, and queue up a podcast for the drive home.",
+  "sections": [
+    {
+      "name": "Training",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Microsoft Learn",
+          "title": "Enhance Teaching and Learning with Microsoft Copilot",
+          "takeaway": "A free, self-paced training module built specifically for educators. Best starting point if you want to actually learn Copilot instead of just poking at it.",
+          "url": "https://learn.microsoft.com/en-us/training/modules/enhance-teaching-learning-microsoft-copilot/"
+        },
+        {
+          "source": "NIU CITL",
+          "title": "Using Microsoft Copilot in Education",
+          "takeaway": "A clear, practical toolkit from a university teaching center on how to put Copilot to work in real teaching tasks.",
+          "url": "https://www.niu.edu/citl/resources/toolkits/artificial-intelligence/microsoft-copilot.shtml"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Microsoft",
+          "title": "Microsoft Copilot: Your AI Companion",
+          "takeaway": "The front door to Copilot itself. Sign in with your GCS account and try it on a real task, like drafting a parent email or summarizing a long document.",
+          "url": "https://copilot.microsoft.com"
+        },
+        {
+          "source": "Orchestry",
+          "title": "Top 15 Use Cases of Copilot in Education: Teachers, Admins and Students",
+          "takeaway": "Fifteen concrete ways teachers, admins, and students are actually using Copilot. Steal an idea and run with it this week.",
+          "url": "https://www.orchestry.com/insight/top-15-use-cases-of-microsoft-copilot-in-education"
+        },
+        {
+          "source": "Copilot Connection",
+          "title": "Copilot Connection",
+          "takeaway": "A community hub of tips, examples, and how-tos for getting more out of Copilot. Good place to browse when you want fresh ideas.",
+          "url": "https://www.copilotconnection.com/"
+        },
+        {
+          "source": "ASU Prep Global",
+          "title": "15 AI Tools For Educators You Need To Know",
+          "takeaway": "A quick tour of fifteen educator AI tools worth knowing about, beyond just Copilot, so you can match the tool to the task.",
+          "url": "https://www.asuprepglobal.org/news/ai-tools-for-educators/"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "WonderBaby",
+          "title": "5 Ways AI Can Benefit Special Needs Students",
+          "takeaway": "Five practical, classroom-ready ways AI can support students with disabilities. Worth a read for anyone working in special education.",
+          "url": "https://www.wonderbaby.org/articles/ai-in-special-education"
+        },
+        {
+          "source": "Springer",
+          "title": "Artificial Intelligence for Enhancing Special Education for K-12",
+          "takeaway": "A research-backed look at where AI helps in special education and where it falls short. More depth if the WonderBaby piece sparks your interest.",
+          "url": "https://link.springer.com/article/10.1007/s40593-024-00422-0"
+        },
+        {
+          "source": "Springer Open",
+          "title": "Embracing the Future of Artificial Intelligence in the Classroom",
+          "takeaway": "An open-access journal article on bringing AI into everyday teaching, grounded in evidence rather than hype.",
+          "url": "https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-024-00448-3"
+        }
+      ]
+    },
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "The Hill",
+          "title": "AI Ready to Hit Its Stride in Schools in 2025",
+          "takeaway": "A snapshot of where K-12 AI is headed this year. Useful framing for leadership conversations about what is coming.",
+          "url": "https://thehill.com/homenews/education/5060341-2025-ai-artificial-intelligence-k-12-schools/"
+        },
+        {
+          "source": "Stanford HAI",
+          "title": "AI Will Transform Teaching and Learning. Let's Get It Right.",
+          "takeaway": "Stanford's take on doing AI in education thoughtfully instead of fast. A grounded read for anyone setting direction.",
+          "url": "https://hai.stanford.edu/news/ai-will-transform-teaching-and-learning-lets-get-it-right"
+        },
+        {
+          "source": "World Economic Forum",
+          "title": "Shaping the Future of Learning: The Role of AI in Education 4.0",
+          "takeaway": "A big-picture report on AI's role in the next era of learning. Good context for long-range planning.",
+          "url": "https://www.weforum.org/publications/shaping-the-future-of-learning-the-role-of-ai-in-education-4-0/"
+        },
+        {
+          "source": "Forbes",
+          "title": "The Role of AI in Shaping the Future of Education",
+          "takeaway": "A short business-council perspective on where AI is taking education. A quick read for the optimistic case.",
+          "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2024/10/01/the-role-of-ai-in-shaping-the-future-of-education/"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "kind": "read",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "DeepSeek Displaces ChatGPT as the App Store's Top App",
+          "takeaway": "The new app everyone downloaded this month is based in China, with real questions about where your data goes. A good reminder to check who is behind a tool before you feed it anything sensitive.",
+          "url": "https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app/"
+        },
+        {
+          "source": "Hard Fork",
+          "title": "Your Guide to the DeepSeek Freakout: An Emergency Pod",
+          "takeaway": "A calm explainer on why DeepSeek set off alarms, from cost to privacy to national security. Helps you separate the real concerns from the noise.",
+          "url": "https://podcasts.apple.com/us/podcast/your-guide-to-the-deepseek-freakout-an-emergency-pod/id1528594034?i=1000686000838"
+        },
+        {
+          "source": "AI Education Podcast",
+          "title": "AI: Study Buddy or Influencer?",
+          "takeaway": "Pushes on an uncomfortable question for schools: is AI helping students think, or just telling them what to think. Worth a listen before you hand it to kids.",
+          "url": "https://aipodcast.education/ai-study-buddy-or-influencer-series-10-episode-7"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "Armchair Expert",
+          "title": "Ken Goldberg on Robotics and AI",
+          "takeaway": "The Berkeley roboticist gives an approachable, human take on where AI and robots are actually headed. Easy listen for a non-technical audience.",
+          "url": "https://armchairexpertpod.com/pods/ken-goldberg"
+        },
+        {
+          "source": "The Atlantic",
+          "title": "The Scientist vs. the Machine",
+          "takeaway": "A short episode on what happens to human productivity and discovery when AI enters the lab. Thought-provoking for anyone weighing the upside.",
+          "url": "https://www.theatlantic.com/podcasts/archive/2025/01/ai-scientific-productivity/681298/"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "Enhance Teaching and Learning with Microsoft Copilot",
+    "blurb": "If you only do one thing this month, work through this free Microsoft training. Copilot is already in our environment, so this is the fastest way to turn a tool you already have into time you actually save.",
+    "source": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/training/modules/enhance-teaching-learning-microsoft-copilot/"
+  },
+  "challenge": {
+    "title": "February Challenge",
+    "body": "Sign in to Copilot with your GCS account and use it for one real task this month, like drafting a parent email, summarizing a long document, or building a first draft of a lesson. Spend fifteen minutes, notice what it got right and what it got wrong, and bring one takeaway to share. The goal is to get hands-on with a tool we already pay for."
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "month_year": "April 2025",
+  "issue_no": 8,
+  "slug": "2025-04",
+  "hero_headline": "Spring into AI: MagicSchool, Canva, and Tools You Can Use Monday Morning",
+  "intro": "This month is all about putting AI to work in the classroom without adding to your plate. We are leaning into MagicSchool, Canva's free AI training, and the tools coming out of Stanford and Microsoft. There is also a healthy dose of the bigger conversation, what critical AI literacy really means and how we keep judgment in the driver's seat. Skim what is useful, ignore what is not, and try the April Challenge if you have a few minutes.",
+  "sections": [
+    {
+      "name": "Training",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Canva",
+          "title": "Canva AI Training",
+          "takeaway": "A free, self-paced Canva course on using AI in the classroom, perfect for building lessons and visuals fast.",
+          "url": "https://www.canva.com/design-school/courses/ai-in-the-classroom"
+        },
+        {
+          "source": "Microsoft Support",
+          "title": "Introducing agents (Microsoft)",
+          "takeaway": "A plain walkthrough of Microsoft Copilot agents so you can see what these new AI helpers actually do.",
+          "url": "https://support.microsoft.com/en-us/topic/introducing-agents-943e563d-602d-40fa-bdd1-dbc83f582466"
+        }
+      ]
+    },
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Stanford (Spotify)",
+          "title": "Generative AI Hub: How Stanford is Empowering K-12 Ed Leaders with AI Tools",
+          "takeaway": "Stanford's take on what AI tools and supports school leaders actually need, straight from the people building them.",
+          "url": "https://open.spotify.com/show/3wRBnRmuKGmtKzhnTql2m0"
+        },
+        {
+          "source": "Mike Kentz (Substack)",
+          "title": "Critical AI Literacy: What Is It and Why Do We Need It?",
+          "takeaway": "Students are already using AI, so the real job is teaching them to question its output and protect their own thinking.",
+          "url": "https://mikekentz.substack.com/p/critical-ai-literacy-what-is-it-and"
+        },
+        {
+          "source": "EdTech Magazine",
+          "title": "AI in Education in 2024: Educators Express Mixed Feelings on the Technology's Future",
+          "takeaway": "A useful gut check on where teachers really stand on AI, excitement and worry in roughly equal measure.",
+          "url": "https://edtechmagazine.com/k12/article/2024/09/ai-education-2024-educators-express-mixed-feelings-technologys-future-perfcon"
+        },
+        {
+          "source": "Education Week",
+          "title": "How AI Is Changing Education: The Year's Top 5 Stories",
+          "takeaway": "The fastest way to catch up on the AI stories that actually moved K-12 over the past year.",
+          "url": "https://www.edweek.org/technology/how-ai-is-changing-education-the-years-top-5-stories/2024/12"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "THE Journal",
+          "title": "Survey: Students Say AI Use Can Reduce Math Anxiety",
+          "takeaway": "Students report that AI help lowers their math anxiety, a real argument for thoughtful classroom use.",
+          "url": "https://thejournal.com/articles/2025/04/21/survey-students-say-ai-use-can-reduce-math-anxiety.aspx"
+        },
+        {
+          "source": "Tech & Learning",
+          "title": "OpenAI's New Viral Art-Generating Tool and Its Potential for Teaching",
+          "takeaway": "The viral image generator everyone is sharing has real classroom uses, from visuals to writing prompts.",
+          "url": "https://www.techlearning.com/how-to/openais-new-viral-art-generating-tool-and-its-potential-for-teaching"
+        },
+        {
+          "source": "MiddleWeb",
+          "title": "Learning to Fly with AI: Prompts to Support Teachers' Work",
+          "takeaway": "Copy-and-paste prompts you can use today to cut down on prep and planning time.",
+          "url": "https://www.middleweb.com/52130/these-ai-prompts-can-support-your-teaching/"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "AVID Open Access",
+          "title": "MagicSchool, with Adeel Khan",
+          "takeaway": "MagicSchool's founder explains what the tool does for teachers, a good primer if you are just getting started.",
+          "url": "https://avidopenaccess.org/resource/284-magicschool-with-adeel-khan/"
+        },
+        {
+          "source": "Tech & Learning",
+          "title": "ChatGPT Talks Now. What Does That Mean For Teaching?",
+          "takeaway": "ChatGPT's new voice mode opens up read-aloud, conversation practice, and hands-free help in the classroom.",
+          "url": "https://www.techlearning.com/news/chatgpt-talks-now-what-does-that-mean-for-teaching"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "AI Education Podcast",
+          "title": "AI Education Podcast",
+          "takeaway": "A steady, teacher-friendly podcast on what AI looks like in real classrooms.",
+          "url": "https://aipodcast.education"
+        },
+        {
+          "source": "Indiana University",
+          "title": "Episode 4: AI in the Classroom of the Future",
+          "takeaway": "A short listen on where AI is headed in schools and how to think about it ethically.",
+          "url": "https://womenandtech.indiana.edu/get-started/faculty/ethical-ai/episode-4.html"
+        },
+        {
+          "source": "Bits & Bytes (Buzzsprout)",
+          "title": "Bits & Bytes Podcast Shorts: MagicSchool AI",
+          "takeaway": "A quick MagicSchool overview you can finish before the bell rings.",
+          "url": "https://www.buzzsprout.com/2227162/episodes/14218267-bits-bytes-podcast-shorts-magicschool-ai"
+        },
+        {
+          "source": "Apple Podcasts",
+          "title": "MagicSchoolAI podcast",
+          "takeaway": "The full MagicSchool podcast channel for deeper dives into features and classroom use.",
+          "url": "https://podcasts.apple.com/gb/channel/magicschoolai-podcast/id6504778621"
+        },
+        {
+          "source": "Revisionist History (Pushkin)",
+          "title": "Exploring Life-Saving AI Tech with T-Mobile for Business",
+          "takeaway": "Malcolm Gladwell on AI doing real good in the world, a nice reminder of the upside beyond the classroom.",
+          "url": "https://www.pushkin.fm/podcasts/revisionist-history/exploring-life-saving-ai-tech-with-t-mobile-for-business"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "Critical AI Literacy: What Is It and Why Do We Need It?",
+    "blurb": "If you read one thing this month, make it this. The real skill is not using AI, it is teaching students to question what it gives back and keep their own thinking sharp. That is the work, and it starts with us.",
+    "source": "Mike Kentz (Substack)",
+    "url": "https://mikekentz.substack.com/p/critical-ai-literacy-what-is-it-and"
+  },
+  "challenge": {
+    "title": "April Challenge",
+    "body": "Try one MagicSchool tool you have never used before, then build one classroom visual in Canva using its AI features. Two tools, one planning period, and you walk away with something you can actually use with students this week."
+  }
+}

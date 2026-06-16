@@ -1,0 +1,146 @@
+{
+  "month_year": "October 2025",
+  "issue_no": 13,
+  "slug": "2025-10",
+  "hero_headline": "AI is already in the classroom, so let's use it on purpose",
+  "intro": "This month is about getting practical. The big national stories all circle the same point: AI is showing up in schools whether we plan for it or not, so the smart move is to put it to work with intention. Below you will find ready-to-use ideas for the classroom, a look at where districts are headed, and a few honest watch-outs on cheating and detection. As always, the tool does not replace your judgment, it just gives you more time to use it.",
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Bloomberg",
+          "title": "AI and Chatbots Are Already Reshaping US Classrooms",
+          "takeaway": "A wide look at what AI actually looks like in American classrooms right now, useful for setting realistic expectations.",
+          "url": "http://bloomberg.com/news/features/2025-09-01/what-artificial-intelligence-looks-like-in-america-s-classrooms"
+        },
+        {
+          "source": "WBUR On Point",
+          "title": "How to redesign schools for the AI age",
+          "takeaway": "If AI is here to stay, what should school even look like? A thoughtful conversation on rethinking structure, not just adding tools.",
+          "url": "https://www.wbur.org/onpoint/2025/09/03/redesign-schools-ai-student-chatgpt"
+        },
+        {
+          "source": "The New York Times",
+          "title": "A.I.-Driven Education: Founded in Texas and Coming to a School Near You",
+          "takeaway": "A close look at Alpha School and the AI-first model that is spreading, worth knowing about whether you love it or not.",
+          "url": "https://www.nytimes.com/2025/07/27/us/politics/ai-alpha-school-austin-texas.html"
+        },
+        {
+          "source": "The New York Times",
+          "title": "OpenAI and Microsoft Bankroll New A.I. Training for Teachers",
+          "takeaway": "The big AI companies are funding teacher training at scale, a sign of where professional learning is heading.",
+          "url": "https://www.nytimes.com/2025/07/08/technology/chatgpt-teachers-openai-microsoft.html"
+        },
+        {
+          "source": "The New York Times",
+          "title": "Welcome to Campus. Here's Your ChatGPT.",
+          "takeaway": "Colleges are handing students AI access on day one, a preview of what is coming for our graduates.",
+          "url": "https://www.nytimes.com/2025/06/07/technology/chatgpt-openai-colleges.html"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Newsweek",
+          "title": "Khan Academy Founder: Teachers Matter More Than Ever",
+          "takeaway": "Sal Khan makes the case that AI tools raise the value of teachers rather than replace them, the human connection is still the point.",
+          "url": "https://www.newsweek.com/khan-academy-founder-we-created-ai-based-learning-tools-us-classrooms-teachers-matter-more-ever-2120496"
+        },
+        {
+          "source": "SmartBrief",
+          "title": "How AI can ensure no student is left behind",
+          "takeaway": "Practical framing on using AI to personalize support and catch students who slip through the cracks.",
+          "url": "https://www.smartbrief.com/original/how-ai-can-ensure-no-student-is-left-behind"
+        },
+        {
+          "source": "Education Next",
+          "title": "What AI Revealed About a Top Math Program",
+          "takeaway": "An interesting case where AI analysis exposed what was really driving a high-performing math program.",
+          "url": "https://www.educationnext.org/what-ai-revealed-about-a-top-math-program/"
+        },
+        {
+          "source": "District Administration",
+          "title": "Why writing still matters: Teaching human skills in an AI-powered world",
+          "takeaway": "A reminder that writing is thinking, and why we cannot let the tool do all of it for students.",
+          "url": "https://districtadministration.com/opinion/why-writing-still-matters-teaching-human-skills-in-an-ai-powered-world/"
+        },
+        {
+          "source": "The New Yorker",
+          "title": "Will the Humanities Survive Artificial Intelligence?",
+          "takeaway": "A longer read on what AI means for reading, writing, and the humanities, good for a quiet evening.",
+          "url": "https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "OpenAI",
+          "title": "ChatGPT for high school teachers",
+          "takeaway": "A built-out guide of ready-to-use ChatGPT prompts and use cases aimed straight at high school teachers.",
+          "url": "https://chatgpt.com/use-cases/high-school-teachers"
+        },
+        {
+          "source": "eSchool News",
+          "title": "5 ways to infuse AI into your classroom this school year",
+          "takeaway": "Five concrete, low-lift ways to start using AI now, no big overhaul required.",
+          "url": "https://www.eschoolnews.com/digital-learning/2025/09/01/5-ways-to-infuse-ai-into-your-classroom-this-school-year/"
+        },
+        {
+          "source": "Literary Hub",
+          "title": "In Praise of CliffsNotes Study Guides in the Age of AI",
+          "takeaway": "A fun argument that the old study guides still beat AI summaries for actually learning the material.",
+          "url": "https://lithub.com/in-praise-of-cliffsnotes-study-guides-in-the-age-of-ai/"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "THE Journal",
+          "title": "New Turnitin Bypasser Detection Feature Helps Identify Use of AI Humanizer Tools",
+          "takeaway": "Turnitin can now flag text run through AI humanizer tools, useful context as the cat-and-mouse game continues.",
+          "url": "https://thejournal.com/articles/2025/09/02/new-turnitin-bypasser-detection-feature-helps-identify-use-of-ai-humanizer-tools.aspx"
+        },
+        {
+          "source": "School Management Plus",
+          "title": "Using AI for work feels like 'cheating', teachers say",
+          "takeaway": "Many teachers feel uneasy using AI even for their own prep, a real cultural hurdle worth naming out loud.",
+          "url": "https://www.schoolmanagementplus.com/edtech/using-ai-for-work-feels-like-cheating-teachers-say/"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "The New York Times (Hard Fork)",
+          "title": "A.I. School Is in Session: Two Takes on the Future of Education",
+          "takeaway": "A podcast that puts two competing visions of AI in education side by side, a good listen for your commute.",
+          "url": "https://www.nytimes.com/2025/09/05/podcasts/hardfork-education-alpha-school.html"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "Khan Academy Founder: Teachers Matter More Than Ever",
+    "blurb": "Sal Khan builds AI learning tools for a living, and even he says the teacher is still the most important thing in the room. If you read one thing this month, make it this, it is the reassurance and the challenge rolled into one.",
+    "source": "Newsweek",
+    "url": "https://www.newsweek.com/khan-academy-founder-we-created-ai-based-learning-tools-us-classrooms-teachers-matter-more-ever-2120496"
+  },
+  "challenge": {
+    "title": "Monthly Challenge: Steal one prompt",
+    "body": "Open the ChatGPT for high school teachers guide, pick a single use case that fits something on your plate this week, and actually run it. A lesson hook, a rubric, a parent email, anything. The goal is one real win, not a whole new workflow."
+  }
+}

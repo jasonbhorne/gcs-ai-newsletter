@@ -1,0 +1,100 @@
+{
+  "month_year": "July 2025",
+  "issue_no": 11,
+  "slug": "2025-07",
+  "hero_headline": "Federal money is chasing AI, and so is the cheating debate. Here is what that means for us.",
+  "intro": "Summer reading, AI edition. This month the U.S. Department of Education signaled it wants grant dollars to flow toward AI, which is worth watching as a leadership and budget question. At the same time, the honest conversation about AI and cheating is getting louder, with some schools literally bringing back blue books. We also pulled a few practical pieces on differentiated learning, lesson planning, and teacher burnout so the news is not all hand wringing.",
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "EdWeek",
+          "title": "The Ed. Dept. Wants to Steer Grant Money to AI. What That Means for Schools",
+          "takeaway": "Federal grant priorities may start favoring AI, so it is worth understanding before the next funding cycle hits your district.",
+          "url": "https://www.edweek.org/technology/the-ed-dept-wants-to-steer-grant-money-to-ai-what-that-means-for-schools/2025/07"
+        },
+        {
+          "source": "jasonhorne.org",
+          "title": "My greatest concern for AI in education: the invisible handshake",
+          "takeaway": "A leadership take on the real risk: an illusion of learning where everyone feels satisfied but nothing of substance is actually happening.",
+          "url": "https://www.jasonhorne.org/blog/2025/3/26/my-greatest-concern-for-ai-in-education-the-invisible-handshake"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "TCEA Blog",
+          "title": "Differentiated Learning Powered by AI",
+          "takeaway": "Concrete ways to use AI to adapt content to reading levels and build flexible groups, so you spend more time with kids and less on prep.",
+          "url": "https://blog.tcea.org/differentiated-learning-powered-by-ai/"
+        },
+        {
+          "source": "Chronicle Cloud",
+          "title": "Customizing Lesson Plans with AI: Meeting Diverse Student Needs",
+          "takeaway": "A practical walkthrough for tailoring a single lesson to a range of learners without rewriting it five times by hand.",
+          "url": "https://www.chroniclecloud.com/customizing-lesson-plans-with-ai-meeting-diverse-student-needs/"
+        },
+        {
+          "source": "Kiddom",
+          "title": "How AI Can Ease K-12 Teacher Burnout",
+          "takeaway": "If the admin load is wearing your staff down, here are the tasks AI can quietly take off their plates.",
+          "url": "https://www.kiddom.co/resources/how-ai-can-ease-k12-teacher-burnout"
+        },
+        {
+          "source": "Preprints.org",
+          "title": "The Influence of AI Tools on the Student Writing Process and Compositional Fluency",
+          "takeaway": "Early research on what AI actually does to how students write, useful context before you set a classroom policy.",
+          "url": "https://www.preprints.org/manuscript/202506.0832/v1"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "Gizmodo",
+          "title": "AI Cheating Is So Out of Hand That the Blue Books Are Coming Back",
+          "takeaway": "Some schools are returning to handwritten exams, a blunt reminder that assessment design has to account for AI now.",
+          "url": "https://gizmodo.com/ai-cheating-is-so-out-of-hand-in-americas-schools-that-the-blue-books-are-coming-back-2000607771"
+        },
+        {
+          "source": "Frontiers in Education",
+          "title": "Ethical Use of ChatGPT in Education: Best Practices to Combat AI-Induced Plagiarism",
+          "takeaway": "If you want a policy grounded in research rather than gut feeling, start here for combating AI plagiarism.",
+          "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1465703/full"
+        },
+        {
+          "source": "Farmingdale Observer",
+          "title": "Phones Were Banned So Students Couldn't Use ChatGPT. The Problem Came From the Teachers",
+          "takeaway": "A reminder that an AI policy aimed only at students misses half the room.",
+          "url": "https://farmingdale-observer.com/2025/05/27/mobile-phones-were-banned-for-students-so-they-couldnt-use-chatgpt-but-no-one-had-imagined-that-the-problem-would-come-from-the-teachers/"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "Wired, Uncanny Valley",
+          "title": "Let's Talk About ChatGPT and Cheating in the Classroom",
+          "takeaway": "A 20 minute listen that frames the cheating debate without the panic, good for a commute.",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-chatgpt-cheating-in-the-classroom/"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "The Ed. Dept. Wants to Steer Grant Money to AI. What That Means for Schools",
+    "blurb": "This is the one to read if you only read one. Funding priorities shape what districts actually do, and a federal nudge toward AI is the kind of signal that turns into budget lines and grant applications down the road.",
+    "source": "EdWeek",
+    "url": "https://www.edweek.org/technology/the-ed-dept-wants-to-steer-grant-money-to-ai-what-that-means-for-schools/2025/07"
+  }
+}

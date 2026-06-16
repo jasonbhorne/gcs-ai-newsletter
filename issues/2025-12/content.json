@@ -1,0 +1,64 @@
+{
+  "month_year": "December 2025",
+  "issue_no": 15,
+  "slug": "2025-12",
+  "hero_headline": "Start AI Literacy Early, and Keep Your Judgment Switched On",
+  "intro": "Welcome to the December issue. This month leans into two ideas that pair nicely: getting kids thinking critically about AI long before middle school, and remembering that AI is a tool we supervise, not a shortcut around our own judgment. We have a look at how teachers are reshaping CTE, a personalized learning tool worth watching, and two honest reads on where AI gets schools into trouble, IEPs and detection software.",
+  "sections": [
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "K-12 Dive",
+          "title": "AI literacy shouldn't wait for middle school",
+          "takeaway": "AI images and video are getting too convincing to ignore, so the argument is to build critical thinking about digital content in the early elementary grades, right when kids first get online.",
+          "url": "https://www.k12dive.com/news/ai-literacy-shouldnt-wait-for-middle-school/805295/"
+        },
+        {
+          "source": "Education Week",
+          "title": "Classroom View: How AI Is Influencing Teacher Approaches to Career and Technical Ed.",
+          "takeaway": "A close look at how CTE teachers are folding AI into hands-on, career-focused instruction, useful context as our own GCTA programs think about what students need next.",
+          "url": "https://www.edweek.org/teaching-learning/classroom-view-how-ai-is-influencing-teacher-approaches-to-career-and-technical-ed/2025/11"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "GrepBeat",
+          "title": "Raleigh's Asobo Uses AI to Personalize Learning Modules For K-12 Students",
+          "takeaway": "A North Carolina startup is using AI to build personalized learning modules, a concrete example of where the personalized-learning pitch is actually heading for K-12.",
+          "url": "https://grepbeat.com/2025/11/17/raleighs-asobo-designs-personalized-learning-modules-with-ai/"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "Disability Scoop",
+          "title": "Concerns Raised As Teachers Increasingly Use AI To Write IEPs",
+          "takeaway": "Teachers are leaning on AI to draft IEPs, which saves time but raises real questions about accuracy, privacy, and whether the plan truly fits the individual student.",
+          "url": "https://www.disabilityscoop.com/2025/11/18/concerns-raised-as-teachers-increasingly-use-ai-to-write-ieps/31742/"
+        },
+        {
+          "source": "NPR",
+          "title": "Teachers are using software to see if students used AI. What happens when it's wrong?",
+          "takeaway": "AI detectors are far from perfect, and a false flag can wrongly accuse a student, a good reminder to treat detection scores as a conversation starter, not a verdict.",
+          "url": "https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "AI literacy shouldn't wait for middle school",
+    "blurb": "If you read one thing this month, make it this. The case for starting AI literacy in the early grades is the clearest signal of where this is all heading, and it is something every elementary classroom can act on now.",
+    "source": "K-12 Dive",
+    "url": "https://www.k12dive.com/news/ai-literacy-shouldnt-wait-for-middle-school/805295/"
+  }
+}

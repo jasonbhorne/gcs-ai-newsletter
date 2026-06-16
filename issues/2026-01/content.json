@@ -1,0 +1,88 @@
+{
+  "month_year": "January 2026",
+  "issue_no": 16,
+  "slug": "2026-01",
+  "hero_headline": "ChatGPT Grows Up, and Schools Have to Keep Pace",
+  "intro": "ChatGPT has gone from novelty to fixture, and this issue looks at what that means for us. We have a fresh K-12 offering built for teachers, a few features worth your attention, and a $4 billion bet from Microsoft on AI in education. We also keep it honest with the harder stuff, cheating and the legal questions that follow when AI shows up in a discipline file.",
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "SmartBrief",
+          "title": "Education in the age of ChatGPT",
+          "takeaway": "A grounded look at how ChatGPT is reshaping the basics of teaching, learning, and what we expect students to do on their own.",
+          "url": "https://www.smartbrief.com/original/education-in-the-age-of-chatgpt"
+        },
+        {
+          "source": "EdWeek",
+          "title": "Putting AI to Work in Schools Is Difficult. A New Toolkit Outlines How to Do It",
+          "takeaway": "Moving from pilots to real classroom use is the hard part, and this new toolkit gives leaders a practical path instead of vague enthusiasm.",
+          "url": "https://www.edweek.org/technology/putting-ai-to-work-in-schools-is-difficult-a-new-toolkit-outlines-how-to-do-it/2025/06"
+        },
+        {
+          "source": "The New York Times",
+          "title": "Microsoft Pledges $4 Billion Toward A.I. Education",
+          "takeaway": "When a company puts $4 billion behind AI training and tools for schools, it tells you where the money and the expectations are heading.",
+          "url": "https://www.nytimes.com/2025/07/09/business/microsoft-ai-education.html"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "WTHR",
+          "title": "AI in the classroom: How it's impacting teachers and students",
+          "takeaway": "A clear, on-the-ground view of how AI is already changing daily work for teachers and students, not in theory but right now.",
+          "url": "https://www.wthr.com/article/news/education/indiana-teachers-students-classrooms-artificial-intelligence-ai-technology/531-be7f950b-fcf3-4c7f-8965-d37cdddd8ff2"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "OpenAI",
+          "title": "ChatGPT for K-12 teachers",
+          "takeaway": "OpenAI built a version aimed squarely at K-12 teachers, worth a look if you want lesson planning and feedback help without piecing it together yourself.",
+          "url": "https://chatgpt.com/plans/k12-teachers/"
+        },
+        {
+          "source": "Edutopia",
+          "title": "3 ChatGPT Features Worthy of a Teacher's Attention",
+          "takeaway": "Three concrete features you can use this week, skip the hype and grab the parts that actually save time.",
+          "url": "https://www.edutopia.org/article/chatgpt-features-useful-teachers"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "Axios",
+          "title": "Schools scramble to police AI cheating",
+          "takeaway": "Detection tools are unreliable and students are ahead of the curve, so the real answer is rethinking assignments, not chasing a perfect catcher.",
+          "url": "https://www.axios.com/2025/05/26/ai-chatgpt-cheating-college-teachers"
+        },
+        {
+          "source": "EdWeek",
+          "title": "Did This Parent Hire a Lawyer? Schools Face a New Challenge With AI",
+          "takeaway": "When an AI accusation lands in a student's record, parents are pushing back hard, a reminder to keep due process tight before you act.",
+          "url": "https://www.edweek.org/technology/did-this-parent-hire-a-lawyer-schools-face-a-new-challenge-with-ai/2025/09"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "ChatGPT for K-12 teachers",
+    "blurb": "If you only click one link this month, make it this one. It is built for K-12 teachers and gives you a real starting point for lesson planning and feedback instead of a blank chat box.",
+    "source": "OpenAI",
+    "url": "https://chatgpt.com/plans/k12-teachers/"
+  }
+}

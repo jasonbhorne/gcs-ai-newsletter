@@ -1,0 +1,100 @@
+{
+  "month_year": "August 2025",
+  "issue_no": 12,
+  "slug": "2025-08",
+  "hero_headline": "Back to school with AI: clearer guidance, smarter habits, and honest watch-outs",
+  "intro": "Welcome back. As we start a new year, the national conversation has shifted from whether to use AI to how to use it well. This month the U.S. Department of Education put out real guidance, and the loudest voices in the field are landing on the same point we keep making, AI is a thinking partner, not an answer machine. There is also a fair amount to be careful about, so we are giving the watch-outs their own spot.",
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "U.S. Department of Education",
+          "title": "U.S. Department of Education Issues Guidance on Artificial Intelligence Use in Schools",
+          "takeaway": "The feds clarified that districts can use federal grant dollars for responsible AI like tutoring and personalized materials, with privacy and stakeholder input front and center.",
+          "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-issues-guidance-artificial-intelligence-use-schools-proposes-additional-supplemental-priority"
+        },
+        {
+          "source": "Syracuse University News",
+          "title": "From Policy to Practice: How AI is Shaping the Future of Education",
+          "takeaway": "A useful bridge from the big policy ideas to what they actually look like in a building, helpful as we think about our own AI direction.",
+          "url": "https://news.syr.edu/blog/2025/05/08/from-policy-to-practice-how-ai-is-shaping-the-future-of-education/"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Business Insider",
+          "title": "OpenAI's education head says students should use ChatGPT as a tool, not an answer machine",
+          "takeaway": "The message we have been making all along, straight from the source: the goal is productive struggle, not handing the work to the bot.",
+          "url": "https://www.businessinsider.com/openai-education-brain-rot-productive-struggle-vibe-coding-chatgpt-study-2025-8"
+        },
+        {
+          "source": "Business Insider",
+          "title": "Khan Academy CEO predicts AI in the classroom will be like 5 amazing graduate students assisting teachers",
+          "takeaway": "A hopeful framing for the year: AI as a team of tireless assistants that frees teachers to do the human work, not a replacement for them.",
+          "url": "https://www.businessinsider.com/khan-academy-ceo-ai-classroom-teacher-aid-not-replacement-2025-6"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "eSchool News",
+          "title": "As schools embrace AI, an educator offers top tips, cautions, and predictions",
+          "takeaway": "A practical, classroom-tested list of where to start and where to be careful, a good five-minute read before you plan your first AI lesson.",
+          "url": "https://www.eschoolnews.com/digital-learning/2025/08/05/as-schools-embrace-ai-educator-top-tips/"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "NPR",
+          "title": "So long, study guides? The AI industry is going after students",
+          "takeaway": "AI companies are aggressively marketing study shortcuts straight to students, so it is worth naming for kids the difference between learning and outsourcing.",
+          "url": "https://www.npr.org/2025/08/06/g-s1-81012/chatgpt-ai-college-students-chegg-study"
+        },
+        {
+          "source": "The 74",
+          "title": "AI Teacher Assistants Are Useful but Can Pose Risks in Classroom, Report Finds",
+          "takeaway": "These tools save time, but a new report flags bias and accuracy gaps, so keep a human eye on anything they generate.",
+          "url": "https://www.the74million.org/article/ai-teacher-assistants-are-useful-but-can-pose-risks-in-classroom-report-finds/"
+        },
+        {
+          "source": "Education Week",
+          "title": "Researchers Posed as a Teen in Crisis. AI Gave Them Harmful Advice Half the Time",
+          "takeaway": "A sobering reminder that general chatbots are not safe for students in crisis, worth knowing before you point any kid toward one for support.",
+          "url": "https://www.edweek.org/technology/researchers-posed-as-a-teen-in-crisis-ai-gave-them-harmful-advice-half-the-time/2025/08"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "AI in Education Podcast",
+          "title": "Not Cheating, Learning: Students on Using AI Ethically",
+          "takeaway": "Students themselves talk through where the line sits between using AI to learn and using it to cheat, a good listen for any teacher building expectations this year.",
+          "url": "https://aipodcast.education/not-cheating-learning-students-on-using-ai-ethically"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "OpenAI's education head says students should use ChatGPT as a tool, not an answer machine",
+    "blurb": "If you read one thing this month, make it this. The person leading education at OpenAI is telling students the same thing we are: the value is in the struggle, not the shortcut. That is the whole game this year.",
+    "source": "Business Insider",
+    "url": "https://www.businessinsider.com/openai-education-brain-rot-productive-struggle-vibe-coding-chatgpt-study-2025-8"
+  }
+}

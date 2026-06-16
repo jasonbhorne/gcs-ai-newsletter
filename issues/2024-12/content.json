@@ -1,0 +1,92 @@
+{
+  "month_year": "December 2024",
+  "issue_no": 2,
+  "slug": "2024-12",
+  "hero_headline": "From terrified to teaching with it: how educators are finding their footing with AI",
+  "intro": "Welcome to the December issue. This month leans into the human side of AI in the classroom, including a teacher of 27 years who went from fear to handing students the keys. You will find ready-to-use prompts, free training, and a handful of tools that quietly hand you back some time. Try one thing over the break, then watch for the December Challenge below.",
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "The Times",
+          "title": "The Times view on reshaping education: Curriculum Vitality",
+          "takeaway": "A leadership-level take on why curriculum has to evolve as AI reshapes what students actually need to know.",
+          "url": "https://www.thetimes.com/comment/the-times-view/article/the-times-view-on-reshaping-education-curriculum-vitality-tkrcgqllr"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Business Insider",
+          "title": "I've been a teacher for 27 years. When ChatGPT first came out, I was terrified; now, I let my students use it",
+          "takeaway": "One veteran teacher's honest arc from panic to letting students use AI on purpose, with what changed her mind.",
+          "url": "https://www.businessinsider.com/teacher-ai-chatgpt-classroom-cheating-essays-2024-11"
+        },
+        {
+          "source": "Forbes",
+          "title": "Educators Help Your Students Succeed In An AI World (5 Prompts)",
+          "takeaway": "Five copy-and-paste prompts you can use tomorrow to help students learn with AI instead of around it.",
+          "url": "https://www.forbes.com/sites/danfitzpatrick/2024/11/07/5-chatgpt-prompts-for-educators-preparing-students-for-an-ai-world/"
+        },
+        {
+          "source": "Lit and Tech",
+          "title": "Revising From an AI Created Essay Draft",
+          "takeaway": "A practical writing approach that turns an AI first draft into a revision exercise, so the thinking stays with the student.",
+          "url": "http://www.litandtech.com/2024/06/revising-from-ai-created-essay-draft.html"
+        },
+        {
+          "source": "Edutopia",
+          "title": "Using AI in Preschool and the Elementary Grades",
+          "takeaway": "Yes, AI has a place in the early grades. This shows age-appropriate ways to use it with your youngest learners.",
+          "url": "https://www.edutopia.org/article/using-ai-elementary-students/"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Edutopia",
+          "title": "7 AI Tools That Help Teachers Work More Efficiently",
+          "takeaway": "Seven tools that shave time off lesson prep, feedback, and the busywork, with what each one is actually good for.",
+          "url": "https://www.edutopia.org/article/7-ai-tools-that-help-teachers-work-more-efficiently/"
+        },
+        {
+          "source": "Reuters",
+          "title": "OpenAI launches free AI training course for teachers",
+          "takeaway": "A free, no-cost course built for teachers, a low-risk way to get more comfortable before next semester.",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/openai-launches-free-ai-training-course-teachers-2024-11-20/"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "New York Post",
+          "title": "'Bot' for teacher? AI instructor assists college kids in India",
+          "takeaway": "A look at an AI standing in as instructor, and a useful gut-check on where the line should sit between assisting a teacher and replacing one.",
+          "url": "https://nypost.com/video/bot-for-teacher-ai-instructor-assists-college-kids-in-india/"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "I've been a teacher for 27 years. When ChatGPT first came out, I was terrified; now, I let my students use it",
+    "blurb": "If you are still uneasy about AI in your room, read this one. It is the most relatable account of the shift from fear to confident use, and it pairs well with the five prompts above.",
+    "source": "Business Insider",
+    "url": "https://www.businessinsider.com/teacher-ai-chatgpt-classroom-cheating-essays-2024-11"
+  },
+  "challenge": {
+    "title": "December Challenge",
+    "body": "Pick one of the five prompts from the Forbes piece, or one tool from the Edutopia roundup, and use it for a single task before break. Then tell us how it went so we can share the win in a future issue."
+  }
+}

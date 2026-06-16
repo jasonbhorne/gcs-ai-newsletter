@@ -1,0 +1,140 @@
+{
+  "month_year": "May 2026",
+  "issue_no": 20,
+  "slug": "2026-05",
+  "hero_headline": "States are writing the rules. Districts are learning the lessons.",
+  "intro": "This month leans practical: where state AI regulation is heading, what district leaders wish they had done differently, and the watch-outs worth slowing down for. Skim it, click what is useful, ignore the rest. That is the deal.",
+  "editor_pick": {
+    "title": "A Washington district saved $250K by building its own tools with AI",
+    "blurb": "Instead of buying another ed-tech subscription, they \"vibe coded\" what they needed. This is the operations story I find most interesting right now, because the savings are real and the barrier to entry keeps dropping.",
+    "source": "K-12 Dive",
+    "url": "https://www.k12dive.com/news/vibe-coding-helped-a-washington-district-save-250k-in-ed-tech-costs/816993/"
+  },
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "sub": "For the people making the calls",
+      "kind": "read",
+      "items": [
+        {
+          "source": "District Administration",
+          "title": "3 Trends Emerge as States Race to Regulate AI in K-12",
+          "takeaway": "Where state AI rules are heading. Useful for staying ahead of whatever Tennessee lands on.",
+          "url": "https://districtadministration.com/article/3-trends-emerge-as-states-race-to-regulate-ai-in-k12/"
+        },
+        {
+          "source": "EdWeek MarketBrief",
+          "title": "3 Mistakes District Leaders Say They've Made Rolling Out AI",
+          "takeaway": "Hard-won lessons from leaders who went first, so we can skip the avoidable stumbles.",
+          "url": "https://marketbrief.edweek.org/meeting-district-needs/3-mistakes-superintendents-say-theyve-made-in-rolling-out-ai/2026/04"
+        },
+        {
+          "source": "K-12 Dive",
+          "title": "How the Education Department Will Prioritize AI in Grants",
+          "takeaway": "Federal grant dollars are starting to favor AI work. Handy if we go chasing funding.",
+          "url": "https://www.k12dive.com/news/how-the-education-department-will-prioritize-ai-in-awarding-grants/817340/"
+        },
+        {
+          "source": "GovTech",
+          "title": "CoSN 2026: Start AI Strategy With Goals for Student Skills",
+          "takeaway": "Lead with the skills you want students to leave with, not the shiny tool. Sound advice.",
+          "url": "https://www.govtech.com/education/k-12/cosn-2026-ai-strategy-should-start-with-goals-for-student-skills"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "sub": "Teaching, learning, and the students themselves",
+      "kind": "read",
+      "items": [
+        {
+          "source": "EdWeek",
+          "title": "Students Took a Deep Dive Into AI. Here's What They Told Teachers",
+          "takeaway": "Students describe what good and bad AI use actually looks like from their seat. Read it before you assume.",
+          "url": "https://www.edweek.org/technology/a-group-of-students-took-a-deep-dive-into-ai-heres-what-they-told-teachers/2026/04"
+        },
+        {
+          "source": "Hechinger Report",
+          "title": "The Future of AI in the Classroom",
+          "takeaway": "A grounded look at where this is heading, minus the hype in either direction.",
+          "url": "https://hechingerreport.org/proof-points-future-ai-classroom/"
+        },
+        {
+          "source": "Hechinger Report",
+          "title": "The Quest to Build a Better AI Tutor",
+          "takeaway": "What it actually takes to make an AI tutor that helps kids learn rather than just answer for them.",
+          "url": "https://hechingerreport.org/proof-points-ai-tutor-python/"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "sub": "Things you can actually use",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Flint",
+          "title": "Flint: A K-12 Personalized Learning Platform",
+          "takeaway": "One to watch for personalized learning. See what is new and whether it fits a classroom you know.",
+          "url": "https://flintk12.com/whats-new"
+        },
+        {
+          "source": "Google Workspace",
+          "title": "Gemini in Google Classroom Now in All Supported Languages",
+          "takeaway": "Now available across every supported language, which matters for our multilingual families.",
+          "url": "https://workspaceupdates.googleblog.com/2026/04/gemini-in-google-classroom-is-now-available-in-all-Classroom-supported-languages.html"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "sub": "The other side of the conversation",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment, and these are the limits and risks worth keeping in front of us.",
+      "kind": "read",
+      "items": [
+        {
+          "source": "GovTech",
+          "title": "NYC Schools Prohibit AI for Grading, Discipline, and IEPs",
+          "takeaway": "The country's largest district drew hard red lines around the decisions that affect kids most. A useful reference for where we draw ours.",
+          "url": "https://www.govtech.com/education/k-12/nyc-schools-prohibit-ai-for-grading-discipline-ieps"
+        },
+        {
+          "source": "EdWeek",
+          "title": "AI Is Changing Teacher Hiring. Here's How",
+          "takeaway": "AI is quietly screening applications and scoring interviews. Worth understanding before it filters out a teacher we would have wanted to meet.",
+          "url": "https://www.edweek.org/leadership/ai-is-changing-teacher-hiring-heres-how/2026/04"
+        },
+        {
+          "source": "AI for Education",
+          "title": "Education, Social Cohesion, and Democracy in the Age of AI",
+          "takeaway": "A longer read on the bigger stakes: what we risk if we let AI flatten how students think, argue, and connect.",
+          "url": "https://www.aiforeducation.io/education-social-cohesion-and-democracy-in-the-age-of-ai"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "sub": "For the commute",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "SDPB \u00b7 Teacher Talk",
+          "title": "Addressing AI Overwhelm in the Classroom",
+          "takeaway": "A short listen if all of this feels like a lot. You are not the only one.",
+          "url": "https://www.sdpb.org/podcast/teacher-talk/2026-04-09/addressing-ai-overwhelm-in-the-classroom"
+        },
+        {
+          "source": "Class Tech Tips",
+          "title": "Emerging AI Trends in Education for 2026 (w/ Julie Willcott)",
+          "takeaway": "A quick bonus episode on what is coming next year. Good background noise with a payoff.",
+          "url": "https://classtechtips.com/2026/03/20/ai-trends-bonus-2/"
+        }
+      ]
+    }
+  ],
+  "challenge": {
+    "title": "Find one task you do every week and let AI take the first pass",
+    "body": "Not the whole thing. Just the first draft: a parent email, a meeting agenda, a rubric. Spend ten minutes, keep what works, toss what does not, and tell me how it went. The \"vibe coding\" district up top started exactly here."
+  }
+}

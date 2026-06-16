@@ -1,0 +1,95 @@
+{
+  "month_year": "November 2025",
+  "issue_no": 14,
+  "slug": "2025-11",
+  "hero_headline": "AI for Every Learner: Special Education, Personalized Tutoring, and Our Kira Pilot",
+  "intro": "This month we lean into the side of AI that actually helps kids who need it most. We look at where AI is showing promise in special education, what personalized tutoring really delivers versus the hype, and where our own Kira pilot stands. As always, a few honest watch-outs are mixed in, because a tool is only as good as the judgment behind it.",
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Chalkbeat",
+          "title": "Will AI change schools? Yes and no.",
+          "takeaway": "A clear-eyed breakdown of three competing theories on AI in schools, cheating, teaching support, and tutoring, that helps you set realistic expectations.",
+          "url": "https://www.chalkbeat.org/2025/11/04/three-theories-on-ai-in-schools-about-cheating-teaching-and-tutoring/"
+        },
+        {
+          "source": "GovSpend",
+          "title": "K-12 Schools Race to Adopt AI in an Untamed Market",
+          "takeaway": "Districts are buying AI fast and the vendor market is still wild, so this is a useful reminder to slow down on procurement and ask hard questions.",
+          "url": "https://govspend.com/blog/k-12-schools-race-to-adopt-ai-in-an-untamed-market/"
+        },
+        {
+          "source": "Cengage",
+          "title": "AI & Education: Summer 2025 Update",
+          "takeaway": "A quick state-of-play on where AI in education stands going into this school year, good for grounding leadership conversations.",
+          "url": "https://www.cengagegroup.com/news/perspectives/2025/ai--education-2025-mid-summer-update/"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "ezDucate",
+          "title": "AI in Special Education 2025: The Complete Reality Check for Parents & Educators",
+          "takeaway": "An honest look at what AI can and cannot do for students with disabilities, without the sales pitch.",
+          "url": "https://www.ezducate.ai/blogs/ai-in-special-education-2025-the-complete-reality-check-for-parents-educators/"
+        },
+        {
+          "source": "Notie AI",
+          "title": "AI in Special Education: Essential Guide for Teachers 2025",
+          "takeaway": "A practical guide for SPED teachers on using AI to lighten IEP and accommodation workloads while keeping the student first.",
+          "url": "https://www.notieai.com/ai-special-education-guide-teachers-2025/"
+        },
+        {
+          "source": "eLearning Industry",
+          "title": "How AI Is Transforming Personalized Learning In 2025 And Beyond",
+          "takeaway": "Shows where personalized learning is genuinely moving the needle and where it is still mostly promise.",
+          "url": "https://elearningindustry.com/how-ai-is-transforming-personalized-learning-in-2025-and-beyond"
+        },
+        {
+          "source": "Hunt Institute",
+          "title": "AI Tutoring in Schools: How Personalized Learning Technology is Changing K-12 Education",
+          "takeaway": "A research-backed look at AI tutoring models and what they mean for closing gaps in our classrooms.",
+          "url": "https://hunt-institute.org/resources/2025/06/ai-tutoring-alpha-school-personalized-learning-technology-k-12-education/"
+        },
+        {
+          "source": "CNBC",
+          "title": "High school, college students are excited about AI, not dreading jobs impact",
+          "takeaway": "Students are more optimistic about AI and their careers than the headlines suggest, which is worth hearing before we assume how they feel.",
+          "url": "https://www.cnbc.com/2025/11/04/students-are-excited-about-ai-not-dreading-impact-on-jobs.html"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Education Week",
+          "title": "Rising Use of AI in Schools Comes With Big Downsides for Students",
+          "takeaway": "Students report feeling less connected to teachers and most teachers worry AI weakens critical thinking, so the costs are real, not hypothetical.",
+          "url": "https://www.edweek.org/technology/rising-use-of-ai-in-schools-comes-with-big-downsides-for-students/2025/10"
+        },
+        {
+          "source": "ATPE News",
+          "title": "ChatGPT: Artificial Intelligence's Impact on Education",
+          "takeaway": "An early, grounded take on the academic integrity and overreliance risks that still apply every time a student opens a chatbot.",
+          "url": "https://www.atpe.org/News-Media/Magazine/ATPE-News-Summer-2023/ChatGPT"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "AI in Special Education 2025: The Complete Reality Check for Parents & Educators",
+    "blurb": "If you read one thing this month, make it this. It cuts through the marketing and gives a straight answer on where AI actually helps students with disabilities and where it falls short. That balance is exactly the lens our Kira pilot needs.",
+    "source": "ezDucate",
+    "url": "https://www.ezducate.ai/blogs/ai-in-special-education-2025-the-complete-reality-check-for-parents-educators/"
+  }
+}

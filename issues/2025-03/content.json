@@ -1,0 +1,67 @@
+{
+  "month_year": "March 2025",
+  "issue_no": 7,
+  "slug": "2025-03",
+  "hero_headline": "MagicSchool, start to finish: a full video walkthrough for GCS teachers",
+  "intro": "This month we are skipping the usual article roundup and handing you something more useful, a complete set of short MagicSchool video tutorials. If you have been curious about the AI tool we are rolling out but did not know where to start, these walk you through it piece by piece. Watch one over coffee, try it in your next lesson plan, and you will be up and running faster than you think.",
+  "sections": [
+    {
+      "name": "Training",
+      "kind": "read",
+      "items": [
+        {
+          "source": "GCS Video Tutorial",
+          "title": "Introduction to MagicSchool",
+          "takeaway": "Start here. A quick tour of what MagicSchool is and how it fits into your day before you dig into the specific tools.",
+          "url": "https://go.screenpal.com/watch/cTenbun1bR3"
+        },
+        {
+          "source": "GCS Video Tutorial",
+          "title": "MagicSchool Planning Tools",
+          "takeaway": "Walks through the lesson planning features so you can build a unit plan or outline in minutes instead of hours.",
+          "url": "https://go.screenpal.com/watch/cTenFDn1FVl"
+        },
+        {
+          "source": "GCS Video Tutorial",
+          "title": "MagicSchool Content",
+          "takeaway": "How to generate teaching content, readings, and materials tailored to your grade and subject.",
+          "url": "https://go.screenpal.com/watch/cTenr9n1Fqe"
+        },
+        {
+          "source": "GCS Video Tutorial",
+          "title": "MagicSchool Questions",
+          "takeaway": "Build assessment questions, quizzes, and discussion prompts fast, then tweak them to fit your class.",
+          "url": "https://go.screenpal.com/watch/cTeeVUn1FAg"
+        },
+        {
+          "source": "GCS Video Tutorial",
+          "title": "MagicSchool Intellectual Prep",
+          "takeaway": "Use the tool to prep yourself before a lesson, anticipate misconceptions, and sharpen your own understanding.",
+          "url": "https://go.screenpal.com/watch/cTeen3n1F5U"
+        },
+        {
+          "source": "GCS Video Tutorial",
+          "title": "MagicSchool Student Support",
+          "takeaway": "Differentiation and scaffolding features that help you meet individual students where they are.",
+          "url": "https://go.screenpal.com/watch/cTeeIqn1Ywz"
+        },
+        {
+          "source": "GCS Video Tutorial",
+          "title": "MagicSchool Community Tools and Admin",
+          "takeaway": "The collaboration and admin side, including how to share resources and manage the tool across a building.",
+          "url": "https://go.screenpal.com/watch/cTeeIOn1YxG"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "Introduction to MagicSchool",
+    "blurb": "If you only watch one video this month, make it this one. It gives you the lay of the land so everything else clicks into place.",
+    "source": "GCS Video Tutorial",
+    "url": "https://go.screenpal.com/watch/cTenbun1bR3"
+  },
+  "challenge": {
+    "title": "March Challenge",
+    "body": "Pick one MagicSchool tool from these videos and use it to build something real this week, a lesson plan, a quiz, or a set of differentiated materials. Then tell a colleague what you made and how long it took you."
+  }
+}

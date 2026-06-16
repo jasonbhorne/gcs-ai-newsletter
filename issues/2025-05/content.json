@@ -1,0 +1,58 @@
+{
+  "month_year": "May 2025",
+  "issue_no": 10,
+  "slug": "2025-05",
+  "hero_headline": "AI as a Help and a Hindrance: Knowing the Difference",
+  "intro": "As we close out the school year, this issue leans into the honest version of the AI conversation. The same tool that makes a teacher more efficient can also short-circuit the learning we are trying to build. This month we look at what AI does well in the classroom, where it quietly takes something away, and why governance matters even for a school district.",
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "SmartBrief",
+          "title": "AuditBoard CISO talks risk, resiliency and AI governance",
+          "takeaway": "AI can speed up compliance and risk work, but a real governance framework keeps a human in the loop on the decisions that matter. Useful framing for anyone thinking about how a district adopts AI responsibly.",
+          "url": "https://www.smartbrief.com/original/rsac-auditboard-ciso-talks-risk-resiliency-and-ai-governance"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "WTHR",
+          "title": "More efficient: How Indiana teachers are using AI in the classroom",
+          "takeaway": "A plain look at real teachers using AI to plan and save time, not as a gimmick. Good if you want practical examples from people doing the same job you are.",
+          "url": "https://www.wthr.com/article/news/education/indiana-teachers-students-classrooms-artificial-intelligence-ai-technology/531-be7f950b-fcf3-4c7f-8965-d37cdddd8ff2"
+        },
+        {
+          "source": "Education Week",
+          "title": "AI Tutors Can Be Both a Help and a Hindrance in the Classroom",
+          "takeaway": "Teachers explain when AI tutoring actually helps a student and when it just hands over the answer. Read it before you point students at a chatbot for homework help.",
+          "url": "https://www.edweek.org/technology/opinion-ai-tutors-can-be-both-a-help-and-a-hindrance-in-the-classroom-explain-teachers/2025/05"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "Psychology Today",
+          "title": "What Is Lost When Students Turn to AI",
+          "takeaway": "When students hand writing to AI, they skip the struggle that builds critical thinking, not just the assignment. A short, sharp reminder that the process is the point.",
+          "url": "https://www.psychologytoday.com/us/blog/the-first-impression/202505/what-is-lost-when-students-turn-to-ai"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "AI Tutors Can Be Both a Help and a Hindrance in the Classroom",
+    "blurb": "The honest middle ground we keep landing on. AI tutoring can lift a struggling student or rob them of the work, and the difference comes down to how we set it up. Worth five minutes from any teacher.",
+    "source": "Education Week",
+    "url": "https://www.edweek.org/technology/opinion-ai-tutors-can-be-both-a-help-and-a-hindrance-in-the-classroom-explain-teachers/2025/05"
+  }
+}

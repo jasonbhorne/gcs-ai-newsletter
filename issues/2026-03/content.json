@@ -1,0 +1,130 @@
+{
+  "month_year": "March 2026",
+  "issue_no": 18,
+  "slug": "2026-03",
+  "hero_headline": "Better Work, Less Learning, and Knowing When to Put AI Down",
+  "intro": "This month is about the gap between what AI can produce and what students actually learn. The research is honest about the trade off, and so are we. You will find practical classroom ideas, the latest from Google and MagicSchool, a real security warning, and a reminder that good judgment still beats a fast first draft. AI is a tool, not a substitute for thinking.",
+  "sections": [
+    {
+      "name": "Sharing",
+      "kind": "read",
+      "items": [
+        {
+          "source": "jasonhorne.org",
+          "title": "The Kids Aren't the Only Ones Submitting AI Slop",
+          "takeaway": "Students are not the only ones turning in AI slop. Leaders and organizations are too, and this is the case for keeping your real communications human when trust in AI content is dropping.",
+          "url": "https://www.jasonhorne.org/blog/2026/2/18/the-kids-arent-the-only-ones-submitting-ai-slop"
+        }
+      ]
+    },
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "VAR Connection",
+          "title": "3 Ways AI Has Impacted K-12 Education Within the Last Year",
+          "takeaway": "A quick gut check on how far AI has moved in K-12 over the past year, useful for framing where we are before deciding where to go next.",
+          "url": "https://varconnection.dstewart.com/2026/02/18/3-ways-ai-has-impacted-k-12-education-within-the-last-year/"
+        },
+        {
+          "source": "InvestigateTV",
+          "title": "AI in Schools: How Many Teachers and Students Embrace Artificial Intelligence",
+          "takeaway": "Real adoption numbers for teachers and students, helpful when you want data instead of anecdotes about who is actually using this.",
+          "url": "https://www.investigatetv.com/2026/01/28/ai-schools-how-many-teachers-students-embrace-artificial-intelligence-education-tool/"
+        },
+        {
+          "source": "EdTech Magazine",
+          "title": "FETC 2026: Encouraging Responsible AI Use in Schools",
+          "takeaway": "Takeaways from FETC on building responsible AI use into schools, with the kind of guardrails worth borrowing rather than reinventing.",
+          "url": "https://edtechmagazine.com/k12/article/2026/01/fetc-2026-encouraging-responsible-artificial-intelligence-use-schools"
+        },
+        {
+          "source": "THE Journal",
+          "title": "12 Ways to Dive into AI in Education at SXSW EDU",
+          "takeaway": "A roundup of where the AI in education conversation is heading at SXSW EDU, good for spotting the trends coming our way.",
+          "url": "https://thejournal.com/articles/2026/02/12/12-ways-to-dive-into-ai-in-education-at-sxsw-edu.aspx"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "TED",
+          "title": "This Is How Kids Should Be Learning with AI (Priya Lakhani)",
+          "takeaway": "A clear, optimistic case for what AI assisted learning can look like when it is designed around the student instead of bolted on.",
+          "url": "https://www.youtube.com/watch?v=YBH8rQv4aTQ"
+        },
+        {
+          "source": "EdSurge",
+          "title": "Should Students Chat With AI Versions of Historical Figures?",
+          "takeaway": "Talking to an AI version of a historical figure sounds engaging, but this weighs the learning payoff against the accuracy and ethics questions worth asking first.",
+          "url": "https://www.edsurge.com/news/should-students-chat-with-ai-versions-of-historical-figures"
+        },
+        {
+          "source": "MagicSchool (YouTube)",
+          "title": "Building the AI Operating System for Schools (MagicSchool Webinar)",
+          "takeaway": "A look at where MagicSchool is heading as an AI platform for schools, relevant since we are leaning into it for staff.",
+          "url": "https://www.youtube.com/watch?v=2X_eqzhDOJY"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Google",
+          "title": "Google Classroom AI Updates (Bett 2026)",
+          "takeaway": "New Gemini features are landing in Google Classroom, so it is worth a scan to see what is now built in rather than a separate add on.",
+          "url": "https://blog.google/products-and-platforms/products/education/bett-2026-gemini-classroom-updates/"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "GovTech",
+          "title": "OECD: Students Produce Better Work With AI, but Learn Less",
+          "takeaway": "The big trade off in one headline. AI helps students turn in better work while learning less, which should shape how we design assignments.",
+          "url": "https://www.govtech.com/education/k-12/oecd-students-produce-better-work-with-ai-but-learn-less"
+        },
+        {
+          "source": "EdTech Magazine",
+          "title": "How AI-Driven Phishing Is Putting Schools at Risk",
+          "takeaway": "AI is making phishing emails sharper and harder to spot, a real security concern for any district inbox, so slow down before you click.",
+          "url": "https://edtechmagazine.com/higher/article/2026/02/how-ai-driven-phishing-putting-schools-risk"
+        },
+        {
+          "source": "Government of Norway (NOU 2024:20)",
+          "title": "The Digital (in) Life: Balanced Development in the Age of Screens",
+          "takeaway": "A deep policy look at screens and child development that zooms out from any single app to the bigger question of balance.",
+          "url": "https://www.regjeringen.no/no/dokumenter/nou-2024-20/id3073644/?ch=21"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "AI in Education Podcast",
+          "title": "AI in Education Podcast (OECD Digital Education Outlook 2026)",
+          "takeaway": "A listen on the OECD's 2026 outlook, good for the commute if you want the policy picture without reading the full report.",
+          "url": "https://aipodcast.education"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "OECD: Students Produce Better Work With AI, but Learn Less",
+    "blurb": "If you read one thing this month, read this. The OECD found students produce better work with AI while learning less, and that single tension should drive how we design assignments and decide when AI helps versus when it gets in the way.",
+    "source": "GovTech",
+    "url": "https://www.govtech.com/education/k-12/oecd-students-produce-better-work-with-ai-but-learn-less"
+  }
+}

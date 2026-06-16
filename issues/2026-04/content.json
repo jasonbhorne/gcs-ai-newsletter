@@ -1,0 +1,142 @@
+{
+  "month_year": "April 2026",
+  "issue_no": 19,
+  "slug": "2026-04",
+  "hero_headline": "Plan for AI in the Room, Not Around It",
+  "intro": "Welcome to the April issue. The theme this month is honesty about where AI already lives in our schools, in students' hands, in parents' questions, and even in state testing. We have new survey data on what parents actually want, a fresh take on designing assessments that assume AI is present, a real look at how students use these tools on school devices, plus the watch-outs on grading, shadow AI, and policy mandates. A few solid tools and training resources are tucked in too, so there is something here whether you teach, lead, or just want to keep up.",
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Education Week",
+          "title": "How Do Parents Want Schools to Handle AI? Insights From a New Survey",
+          "takeaway": "Eight in ten parents want stronger guardrails on the AI their kids use, including permission requirements and alerts on sensitive topics, useful to know before we set district expectations.",
+          "url": "https://www.edweek.org/technology/how-do-parents-want-schools-to-handle-ai-insights-from-a-new-survey/2026/03"
+        },
+        {
+          "source": "GovTech",
+          "title": "Ohio Mandates AI Policy for All K-12 Schools by July 2026",
+          "takeaway": "Ohio is now requiring every district to adopt an AI policy and is handing out a model to start from, a preview of the kind of mandate that tends to land in Tennessee next.",
+          "url": "https://www.govtech.com/education/k-12/ohio-unveils-model-ai-policy-for-use-by-k-12-schools"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "eSchool News",
+          "title": "The AI-Resistant Classroom Is a Myth: Designing Assessments That Assume AI Is Present",
+          "takeaway": "Instead of trying to AI-proof a test, the better move is to design assessments that assume students have AI and still measure real thinking, with practical examples you can borrow.",
+          "url": "https://www.eschoolnews.com/digital-learning/2026/03/12/ai-classrooms-designing-assessment/"
+        },
+        {
+          "source": "WVTM 13",
+          "title": "Parents and Students Are Grappling with AI Literacy",
+          "takeaway": "Families are trying to figure out responsible AI use on their own, which is a reminder that AI literacy is a home-and-school conversation, not just a classroom one.",
+          "url": "https://www.wvtm13.com/article/parents-and-students-are-grappling-with-ai-literacy/70411886"
+        },
+        {
+          "source": "MiddleWeb",
+          "title": "Civics: Writing Letters to Politicians with AI's Help",
+          "takeaway": "A ready-to-use civics lesson where students draft letters to elected officials with AI as a thinking partner, a nice model for using AI to deepen work instead of replacing it.",
+          "url": "https://www.middleweb.com/53174/civics-writing-letters-to-politicians-with-ais-help/"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "EdTech Magazine",
+          "title": "How Gemini Gems Benefit K-12 Educators and Students",
+          "takeaway": "Gemini Gems let you build custom mini-assistants for specific tasks, a low-lift way to turn a vague AI tool into something tailored to your grade or subject.",
+          "url": "https://edtechmagazine.com/k12/article/2026/03/how-gemini-gems-benefit-k-12-educators-and-students"
+        },
+        {
+          "source": "Education Week",
+          "title": "Real-Time Data Shows Exactly How Students Use AI on School Technology",
+          "takeaway": "New monitoring data shows what students actually do with AI on school devices, and it is more nuanced than the cheating headlines suggest, worth a look before you assume the worst.",
+          "url": "https://www.edweek.org/technology/real-time-data-shows-exactly-how-students-use-ai-on-school-technology/2026/03"
+        }
+      ]
+    },
+    {
+      "name": "Training",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Google for Education",
+          "title": "Free Gemini Training for Educators (Google + ISTE + ASCD)",
+          "takeaway": "Free, self-paced AI literacy training built with ISTE and ASCD, a solid no-cost option if you want to get comfortable with Gemini before using it with students.",
+          "url": "https://blog.google/products-and-platforms/products/education/teacher-ai-literacy-training/"
+        },
+        {
+          "source": "Massachusetts DOE",
+          "title": "AI Literacy for Educators Video Series",
+          "takeaway": "A short, state-produced video series that walks through AI basics for teachers, easy to share at a faculty meeting or watch on your own.",
+          "url": "https://www.doe.mass.edu/edtech/ai/default.html"
+        },
+        {
+          "source": "Microsoft",
+          "title": "Microsoft AI Skills Navigator",
+          "takeaway": "Microsoft's free hub of guided AI learning paths, handy since we already live in the Microsoft 365 and Copilot world here at GCS.",
+          "url": "https://aiskillsnavigator.microsoft.com/"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "Education Week",
+          "title": "Why Teachers Shouldn't Offload Their Busywork to AI",
+          "takeaway": "An argument that some of the busywork we want to hand off is actually where we learn about our students, so think twice before automating it all away.",
+          "url": "https://www.edweek.org/technology/opinion-why-teachers-shouldnt-offload-their-busywork-to-ai/2026/03"
+        },
+        {
+          "source": "The Digest",
+          "title": "AI Will Grade New Jersey State Exams This Spring",
+          "takeaway": "New Jersey is letting AI score parts of its state tests, and parents are uneasy, a live case study in what happens when high-stakes grading goes to a machine.",
+          "url": "https://thedigestonline.com/news/ai-grading-new-jersey-state-exams-parents-concerns/"
+        },
+        {
+          "source": "THE Journal",
+          "title": "Shadow AI Is Quietly Becoming K-12's Biggest Cybersecurity Risk",
+          "takeaway": "Staff and students using unapproved AI tools can quietly leak sensitive data, so the fix is clear approved options plus guidance, not just a ban nobody follows.",
+          "url": "https://thejournal.com/articles/2026/02/25/shadow-ai-is-quietly-becoming-k12s-biggest-cybersecurity-risk.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "Podcast",
+          "title": "AI for Teachers Podcast",
+          "takeaway": "Bite-sized episodes aimed squarely at classroom teachers, good for a commute when you want practical AI ideas without the hype.",
+          "url": "https://podcasts.apple.com/us/podcast/ai-for-teachers/id1698136999"
+        },
+        {
+          "source": "Podcast",
+          "title": "Shifting Schools Podcast",
+          "takeaway": "Conversations on where teaching and technology are headed, a steady listen for leaders thinking about the bigger picture.",
+          "url": "https://pod.shiftingschools.com/"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "The AI-Resistant Classroom Is a Myth: Designing Assessments That Assume AI Is Present",
+    "blurb": "If you read one thing this month, make it this. Chasing an AI-proof assignment is a losing game. Designing work that assumes AI is in the room and still measures real student thinking is the shift that actually holds up, and it is something every teacher can start on now.",
+    "source": "eSchool News",
+    "url": "https://www.eschoolnews.com/digital-learning/2026/03/12/ai-classrooms-designing-assessment/"
+  }
+}

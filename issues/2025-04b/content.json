@@ -1,0 +1,115 @@
+{
+  "month_year": "April 2025",
+  "issue_no": 9,
+  "slug": "2025-04b",
+  "hero_headline": "MagicSchool is live in GCS, plus the Copilot and AI literacy reads to go with it",
+  "intro": "This issue keeps the spotlight on MagicSchool, which we are now piloting and you can find right in your launch pad. Alongside the pilot you will find ways to get trained, a stack of podcasts on what MagicSchool can do in a real classroom, and some solid reading on Microsoft Copilot and AI literacy. Give one tool a real try this month and tell me how it went.",
+  "sections": [
+    {
+      "name": "GCS AI News",
+      "kind": "read",
+      "items": [
+        {
+          "source": "GCS",
+          "title": "MagicSchool pilot is live in your launch pad",
+          "takeaway": "We are piloting MagicSchool across GCS, and it is already sitting in your launch pad, so you can open it and start building lessons and resources today.",
+          "url": "https://secure.smore.com/n/p7r9m-magicschool-videos"
+        }
+      ]
+    },
+    {
+      "name": "Training",
+      "kind": "read",
+      "items": [
+        {
+          "source": "GCS",
+          "title": "AI Study Group sign-up",
+          "takeaway": "A GCS-hosted AI Study Group is the low-pressure way to learn this stuff with colleagues instead of figuring it out alone. Sign up here.",
+          "url": "https://forms.microsoft.com/r/0x29a30avs"
+        },
+        {
+          "source": "GCS Canvas",
+          "title": "AI Training Canvas Course",
+          "takeaway": "Self-paced AI training you can work through on your own schedule, housed in our Canvas resource library.",
+          "url": "https://lor.instructure.com/resources/cf957b5d421841cb9915d3bb5442676d?shared"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Northern Illinois University",
+          "title": "Using Microsoft Copilot in Education",
+          "takeaway": "A plain explainer of what Copilot is and how it plugs into the Microsoft 365 apps you already use every day.",
+          "url": "https://www.niu.edu/citl/resources/toolkits/artificial-intelligence/microsoft-copilot.shtml"
+        },
+        {
+          "source": "Orchestry",
+          "title": "Use Cases of Copilot in Education: Teachers, Admins and Students",
+          "takeaway": "Fifteen concrete Copilot use cases with prompt examples for teachers, admins, and students, so you can copy something that already works.",
+          "url": "https://www.orchestry.com/insight/top-15-use-cases-of-microsoft-copilot-in-education"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Mike Kentz (Substack)",
+          "title": "Critical AI Literacy: What Is It and Why Do We Need It?",
+          "takeaway": "A keynote-style piece on building real AI literacy, which is the judgment students need before they lean on these tools.",
+          "url": "https://mikekentz.substack.com/p/critical-ai-literacy-what-is-it-and"
+        },
+        {
+          "source": "Tech & Learning",
+          "title": "ChatGPT Talks Now. What Does That Mean For Teaching?",
+          "takeaway": "ChatGPT's voice mode is lifelike enough to feel spooky, and this looks at what conversational AI changes for how we teach.",
+          "url": "https://www.techlearning.com/news/chatgpt-talks-now-what-does-that-mean-for-teaching"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "Bits & Bytes Podcast Shorts",
+          "title": "The Power of MagicSchool AI in the Classroom",
+          "takeaway": "A short, classroom-focused listen on how teachers are actually using MagicSchool, perfect for the commute as you start the pilot.",
+          "url": "https://www.buzzsprout.com/2227162/episodes/14218267-bits-bytes-podcast-shorts-magicschool-ai"
+        },
+        {
+          "source": "Apple Podcasts",
+          "title": "MagicSchoolAI Podcast",
+          "takeaway": "The official MagicSchool channel, covering 60-plus tools and how they fit into real teaching.",
+          "url": "https://podcasts.apple.com/gb/channel/magicschoolai-podcast/id6504778621"
+        },
+        {
+          "source": "AVID Open Access",
+          "title": "MagicSchool, with Adeel Khan",
+          "takeaway": "MagicSchool's founder walks through the tool suite and how it came to be, straight from the source.",
+          "url": "https://avidopenaccess.org/resource/284-magicschool-with-adeel-khan/"
+        },
+        {
+          "source": "Revisionist History (Pushkin)",
+          "title": "Exploring Life-Saving AI Tech with T-Mobile for Business",
+          "takeaway": "A wider-angle listen on how 5G and AI are powering life-saving solutions, for when you want AI beyond the classroom.",
+          "url": "https://www.pushkin.fm/podcasts/revisionist-history/exploring-life-saving-ai-tech-with-t-mobile-for-business"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "MagicSchool pilot is live in your launch pad",
+    "blurb": "Everything else this month points back to this. MagicSchool is in your launch pad right now, so open it, build one lesson or one parent letter with it, and see what the fuss is about.",
+    "source": "GCS",
+    "url": "https://secure.smore.com/n/p7r9m-magicschool-videos"
+  },
+  "challenge": {
+    "title": "April Challenge",
+    "body": "Tell me about your experiences using MagicSchool. Try it during the pilot, then share what worked and what flopped so we can shape how GCS rolls it out."
+  }
+}

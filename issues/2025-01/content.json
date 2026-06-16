@@ -1,0 +1,127 @@
+{
+  "month_year": "January 2025",
+  "issue_no": 3,
+  "slug": "2025-01",
+  "hero_headline": "Kicking off the new year with AI literacy and a new study group",
+  "intro": "Happy new year, GCS. This issue is all about getting comfortable with AI literacy, the skill set everyone keeps asking schools to teach. We are also launching an AI Study Group so we can learn together instead of figuring it out alone, and a couple of our own teachers share what is already working in their classrooms. Read on, try the January Challenge, and queue up a podcast for the drive home.",
+  "sections": [
+    {
+      "name": "GCS AI News",
+      "kind": "read",
+      "items": [
+        {
+          "source": "GCS",
+          "title": "AI Study Group launch",
+          "takeaway": "We are starting an AI Study Group so staff can learn AI tools and best practices together. Low pressure, high curiosity, open to anyone who wants in.",
+          "url": "https://app.smore.com/n/dgrhf-gcs-ai-newsletter"
+        }
+      ]
+    },
+    {
+      "name": "Sharing",
+      "kind": "read",
+      "items": [
+        {
+          "source": "GCS Educators",
+          "title": "What our teachers are trying",
+          "takeaway": "A few GCS teachers shared how they are using AI to plan lessons and save time. Real classrooms, real examples, no hype.",
+          "url": "https://app.smore.com/n/dgrhf-gcs-ai-newsletter"
+        }
+      ]
+    },
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Digital Promise",
+          "title": "Transforming K-12 Education with AI: A New Report with Insights from 28 Exploratory Projects",
+          "takeaway": "Findings from 28 real district pilots, useful if you want to see what actually works before committing your own program.",
+          "url": "https://digitalpromise.org/2024/10/23/transforming-k-12-education-with-ai-a-new-report-with-insights-from-28-exploratory-projects/"
+        },
+        {
+          "source": "World Economic Forum",
+          "title": "The future of learning: AI is revolutionizing education 4.0",
+          "takeaway": "A big-picture look at where AI is pushing K-12, helpful framing for leadership conversations about the next few years.",
+          "url": "https://www.weforum.org/stories/2024/04/future-learning-ai-revolutionizing-education-4-0/"
+        },
+        {
+          "source": "TIME",
+          "title": "TIME100 AI 2024: Kristen DiCerbo",
+          "takeaway": "A quick profile of one of education's leading AI voices, good context on where the thinking is headed.",
+          "url": "https://time.com/7012801/kristen-dicerbo/"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Common Sense Education",
+          "title": "ChatGPT Foundations for K-12 Educators",
+          "takeaway": "A free training that gets you from zero to confident with ChatGPT in a classroom context. Best starting point if you are new to it.",
+          "url": "https://www.commonsense.org/education/training/chatgpt-k12-foundations"
+        },
+        {
+          "source": "PowerSchool",
+          "title": "AI Literacy for Teachers: Best Practices and Tools",
+          "takeaway": "Practical guidance on what AI literacy means for teachers and which tools to start with, written for busy educators.",
+          "url": "https://www.powerschool.com/blog/ai-literacy-for-teachers/"
+        },
+        {
+          "source": "PowerSchool",
+          "title": "It's Time to Talk AI Literacy (Webinar)",
+          "takeaway": "An on-demand webinar you can watch on your own time to get grounded in AI literacy for the classroom.",
+          "url": "https://www.powerschool.com/on-demand-webinar/ai-literacy/"
+        },
+        {
+          "source": "Parents",
+          "title": "The One Thing Nearly 9 Out of 10 Parents Are Demanding but Schools Aren't Teaching",
+          "takeaway": "Parents overwhelmingly want AI taught in schools. Worth a read for why this is becoming a community expectation, not just a tech trend.",
+          "url": "https://www.parents.com/ai-and-education-how-important-is-it-8722567"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "PCMag",
+          "title": "How to Use Microsoft's Copilot AI, and 10 Things to Try Right Away",
+          "takeaway": "Copilot is already in our Microsoft 365 environment. This gives you ten things to try today, no setup required.",
+          "url": "https://www.pcmag.com/how-to/how-to-use-microsoft-copilot-ai-what-to-try"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "Armchair Expert",
+          "title": "Fei-Fei Li on a human-centered approach to AI",
+          "takeaway": "The Stanford AI pioneer makes the case for keeping people at the center of the technology. Approachable listen for a non-technical audience.",
+          "url": "https://wondery.com/shows/armchair-expert-with-dax-shepard/episode/16193-fei-fei-li-on-a-human-centered-approach-to-ai/"
+        },
+        {
+          "source": "Armchair Expert",
+          "title": "Mustafa Suleyman",
+          "takeaway": "A DeepMind co-founder talks honestly about where AI is going and what to watch for. Good big-picture listen.",
+          "url": "https://armchairexpertpod.com/pods/mustafa-suleyman"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "ChatGPT Foundations for K-12 Educators",
+    "blurb": "If you only do one thing this month, do this free training. It is the fastest way to go from curious to comfortable, and it pairs perfectly with our new AI Study Group.",
+    "source": "Common Sense Education",
+    "url": "https://www.commonsense.org/education/training/chatgpt-k12-foundations"
+  },
+  "challenge": {
+    "title": "January Challenge",
+    "body": "Pick one AI literacy resource from this issue and actually finish it, then bring one takeaway to the AI Study Group. Even fifteen minutes counts. The goal is to start the year a little more fluent than you ended last year."
+  }
+}

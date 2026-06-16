@@ -1,0 +1,88 @@
+{
+  "month_year": "February 2026",
+  "issue_no": 17,
+  "slug": "2026-02",
+  "hero_headline": "A New Year Reality Check: Where AI Helps, Where It Hurts, and How to Tell the Difference",
+  "intro": "Welcome to the February issue. We are a month into 2026, and the headlines have swung from hype to a healthier dose of caution. This month leans into that balance. You will find the trends worth watching this year, the tools actually saving teachers time, and a few honest warnings about where AI in schools can go sideways. Read the wins, but read the watch-outs too.",
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "EdWeek",
+          "title": "AI in K-12: A New Year Reality Check for School Leaders",
+          "takeaway": "A grounded look at what AI can and cannot do for districts in 2026, written for leaders who have to make real decisions rather than chase the hype.",
+          "url": "https://www.edweek.org/technology/opinion-ai-in-k-12-a-new-year-reality-check-for-school-leaders/2026/01"
+        },
+        {
+          "source": "K-12 Dive",
+          "title": "6 Trends to Watch for K-12 in 2026",
+          "takeaway": "A quick map of where K-12 is heading this year so you can plan ahead instead of reacting later.",
+          "url": "https://www.k12dive.com/news/6-k-12-trends-to-watch-in-2026/809065/"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "K-12 Dive",
+          "title": "Heightened AI Use in Special Education Brings Elevated Risks",
+          "takeaway": "AI can help with IEPs and accommodations, but the privacy and accuracy stakes are higher in special education, and this lays out what to watch under IDEA and Section 504.",
+          "url": "https://www.k12dive.com/news/artificial-intelligence-special-education-Section-504-benefits-risks-privacy-IDEA-IEP/804535/"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "The 74",
+          "title": "10 Useful Tech Tools for Educators in 2026: A Practical Guide",
+          "takeaway": "A practical, no-fluff list of ten tools teachers can actually use this year, with the why for each one.",
+          "url": "https://www.the74million.org/article/10-useful-tech-tools-for-educators-in-2026-a-practical-guide/"
+        },
+        {
+          "source": "EdTech Magazine",
+          "title": "AI Tools for Teachers That Drive Efficiencies",
+          "takeaway": "Where AI is genuinely saving teachers time, so you can point staff toward the tools that lighten the load instead of adding to it.",
+          "url": "https://edtechmagazine.com/k12/article/2026/01/ai-tools-teachers-drive-efficiencies-perfcon"
+        },
+        {
+          "source": "Microsoft Education",
+          "title": "Microsoft Innovations to Support AI-Powered Teaching and Learning",
+          "takeaway": "New Microsoft features for teaching and learning, worth a look since this is our Copilot environment and these land in tools we already use.",
+          "url": "https://www.microsoft.com/en-us/education/blog/2026/01/introducing-microsoft-innovations-and-programs-to-support-ai-powered-teaching-and-learning/"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "NPR",
+          "title": "Report: The Risks of AI in Schools Outweigh the Benefits",
+          "takeaway": "A report arguing the current risks of AI in schools outweigh the payoff, and a useful gut check before we lean in too hard.",
+          "url": "https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education"
+        },
+        {
+          "source": "Chalkbeat",
+          "title": "Denver Schools Blocking ChatGPT for Students",
+          "takeaway": "Denver blocked ChatGPT for students over new features like group chat and planned adult content, a real-world example of why student-facing access needs guardrails.",
+          "url": "https://www.chalkbeat.org/colorado/2026/01/13/denver-schools-blocking-chatgpt-over-concerns-about-new-features/"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "AI in K-12: A New Year Reality Check for School Leaders",
+    "blurb": "If you read one thing this month, make it this. It cuts through the noise and frames AI the way leaders actually need it framed: useful in places, risky in others, and never a substitute for judgment.",
+    "source": "EdWeek",
+    "url": "https://www.edweek.org/technology/opinion-ai-in-k-12-a-new-year-reality-check-for-school-leaders/2026/01"
+  }
+}

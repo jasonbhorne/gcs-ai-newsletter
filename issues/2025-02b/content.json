@@ -1,0 +1,157 @@
+{
+  "month_year": "February 2025",
+  "issue_no": 6,
+  "slug": "2025-02b",
+  "hero_headline": "DeepSeek shook up the AI world, and our Study Group is just getting started",
+  "intro": "This issue lands in the middle of the DeepSeek frenzy, when a new Chinese model briefly knocked ChatGPT off the top of the app store and reminded everyone how fast this space moves. We also kicked off the monthly AI Study Group, shared a few of your AI goals for 2025, and rounded up reading on where K-12 is headed, including a closer look at AI in special education. Skim what is useful and ignore the rest.",
+  "sections": [
+    {
+      "name": "Sharing",
+      "kind": "read",
+      "items": [
+        {
+          "source": "GCS Staff",
+          "title": "AI Goals for 2025",
+          "takeaway": "A few GCS staff shared how they plan to use AI this year, from writing real-world math problems to drafting a multi-week nutrition menu. Good proof that this is already practical, not theoretical.",
+          "url": "https://studentsgcschools-my.sharepoint.com/:x:/g/personal/hornej_gcschools_net/EVuPBqWswM1MjADI9-By7KIBru-veFe1xdFRWpsdaZGIdg?e=sHvoxw"
+        }
+      ]
+    },
+    {
+      "name": "Training",
+      "kind": "read",
+      "items": [
+        {
+          "source": "GCS",
+          "title": "AI Study Group at the KLCO PDC",
+          "takeaway": "Starting in February, a monthly AI Study Group meets at the KLCO PDC from 3:30 to 4:30 PM, open to everyone whether you are brand new or already advanced. Sign up and bring your questions.",
+          "url": "https://forms.office.com/r/6NDgnP8CH6"
+        },
+        {
+          "source": "Common Sense Education",
+          "title": "ChatGPT Foundations for K-12 Educators",
+          "takeaway": "A free course on the basics of generative AI and ChatGPT, with safe, practical ways to fold it into your planning and teaching. A solid place to start if you want structure.",
+          "url": "https://www.commonsense.org/education/training/chatgpt-k12-foundations"
+        }
+      ]
+    },
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "The Hill",
+          "title": "AI ready to hit its stride in schools in 2025",
+          "takeaway": "Experts think 2024 laid the groundwork and 2025 is the year AI actually matures in K-12. Useful framing for where we are in the adoption curve.",
+          "url": "https://thehill.com/homenews/education/5060341-2025-ai-artificial-intelligence-k-12-schools/"
+        },
+        {
+          "source": "Stanford HAI",
+          "title": "AI Will Transform Teaching and Learning. Let's Get It Right.",
+          "takeaway": "Researchers and industry leaders weigh both the upside of AI in education and the real risks. A balanced read for anyone setting direction.",
+          "url": "https://hai.stanford.edu/news/ai-will-transform-teaching-and-learning-lets-get-it-right"
+        },
+        {
+          "source": "Forbes",
+          "title": "The Role of AI in Shaping the Future of Education",
+          "takeaway": "A short council piece arguing AI can drive the reforms education has long needed. Quick big-picture context.",
+          "url": "https://www.forbes.com/councils/forbesbusinesscouncil/2024/10/01/the-role-of-ai-in-shaping-the-future-of-education/"
+        },
+        {
+          "source": "World Economic Forum",
+          "title": "Shaping the Future of Learning: The Role of AI in Education 4.0",
+          "takeaway": "A report on how AI can benefit students, teachers, and educators at a system level. Skim the summary if you want the strategic view.",
+          "url": "https://www.weforum.org/publications/shaping-the-future-of-learning-the-role-of-ai-in-education-4-0/"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Int'l Journal of Ed Tech in Higher Ed",
+          "title": "Embracing the Future of AI in the Classroom",
+          "takeaway": "Makes the case that AI literacy, prompt engineering, and critical thinking now belong together as core skills. Worth it if you like the research angle.",
+          "url": "https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-024-00448-3"
+        },
+        {
+          "source": "WonderBaby.org",
+          "title": "5 Ways AI Can Benefit Special Needs Students",
+          "takeaway": "Practical, accessible look at how AI can personalize learning and improve inclusivity in special education. Concrete examples you can picture.",
+          "url": "https://www.wonderbaby.org/articles/ai-in-special-education"
+        },
+        {
+          "source": "Int'l Journal of AI in Education",
+          "title": "AI for Enhancing Special Education for K-12: A Decade of Trends",
+          "takeaway": "A review of 210 studies from 2013 to 2023 on AI in special education. The deep-dive companion to the WonderBaby piece if you want evidence.",
+          "url": "https://link.springer.com/article/10.1007/s40593-024-00422-0"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "TechCrunch",
+          "title": "DeepSeek displaces ChatGPT as the App Store's top app",
+          "takeaway": "The story everyone was talking about: a Chinese AI lab's app shot to number one worldwide overnight. Context for why your feeds went wild.",
+          "url": "https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app/"
+        },
+        {
+          "source": "TechCrunch",
+          "title": "ChatGPT now lets you schedule reminders and recurring tasks",
+          "takeaway": "A new ChatGPT beta called tasks can set reminders and recurring requests. Small feature, real time-saver for busy schedules.",
+          "url": "https://techcrunch.com/2025/01/14/chatgpt-now-lets-you-schedule-reminders-and-recurring-tasks/"
+        },
+        {
+          "source": "ASU Prep Global",
+          "title": "15 AI Tools for Educators You Need to Know",
+          "takeaway": "A grab-bag of 15 tools to make teaching more efficient and engaging. Pick one or two to try, not all fifteen.",
+          "url": "https://www.asuprepglobal.org/news/ai-tools-for-educators/"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "Hard Fork (Emergency Pod)",
+          "title": "Your Guide to the DeepSeek Freakout",
+          "takeaway": "A quick emergency episode unpacking why DeepSeek was such a big moment in AI. The fastest way to get up to speed on the hype.",
+          "url": "https://podcasts.apple.com/us/podcast/your-guide-to-the-deepseek-freakout-an-emergency-pod/id1528594034?i=1000686000838"
+        },
+        {
+          "source": "Armchair Expert",
+          "title": "Ken Goldberg on Why We Don't Have Better Robots Yet",
+          "takeaway": "A roboticist and artist on why robots are harder than they look. A good listen if you want the bigger AI-and-machines picture.",
+          "url": "https://armchairexpertpod.com/pods/ken-goldberg"
+        },
+        {
+          "source": "AI Education Podcast",
+          "title": "AI: Study Buddy or Influencer?",
+          "takeaway": "Digs into an Australian parliamentary report on AI in education, weighing opportunities against risks for students. Thoughtful and short.",
+          "url": "https://aipodcast.education/ai-study-buddy-or-influencer-series-10-episode-7"
+        },
+        {
+          "source": "The Atlantic",
+          "title": "The Scientist vs. the Machine",
+          "takeaway": "What happened when AI started doing researchers' jobs. A sharp look at AI and human productivity.",
+          "url": "https://www.theatlantic.com/podcasts/archive/2025/01/ai-scientific-productivity/681298/"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "Your Guide to the DeepSeek Freakout",
+    "blurb": "If you only have time for one thing this month, this short emergency pod explains why a single new model briefly turned the whole AI world upside down. It is the cleanest way to understand a moment that mattered.",
+    "source": "Hard Fork (Emergency Pod)",
+    "url": "https://podcasts.apple.com/us/podcast/your-guide-to-the-deepseek-freakout-an-emergency-pod/id1528594034?i=1000686000838"
+  },
+  "challenge": {
+    "title": "February Challenge",
+    "body": "How are you using AI? Tell us in one quick form. We want to hear the real, everyday ways AI is showing up in your work so we can share what is working across the district."
+  }
+}

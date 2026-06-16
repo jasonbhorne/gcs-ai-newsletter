@@ -1,0 +1,112 @@
+{
+  "month_year": "January 2025",
+  "issue_no": 4,
+  "slug": "2025-01b",
+  "hero_headline": "A Bonus Round of AI: Study Group Dates, More Teacher Wins, and Podcasts for the Drive Home",
+  "intro": "You all kept the conversation going after the last issue, so here is a bonus drop to match. This one leans into our GCS AI Study Group, a few more wins from teachers in our buildings, and some podcasts worth your commute. As always, the goal is simple. Try one thing, see if it saves you time, and bring what you learn back to the group.",
+  "sections": [
+    {
+      "name": "GCS AI News",
+      "kind": "read",
+      "items": [
+        {
+          "source": "GCS",
+          "title": "AI Study Group: Spring Schedule and How to Join",
+          "takeaway": "Our AI Study Group is rolling into spring with a set meeting schedule, so grab the dates and drop in even if you missed the first sessions. Come with questions, leave with one tool you can use Monday.",
+          "url": "https://app.smore.com/n/vba1r-gcs-ai-newsletter"
+        },
+        {
+          "source": "GCS",
+          "title": "More From Our Teachers: What's Working in Real Classrooms",
+          "takeaway": "A few more GCS educators shared how AI is saving them time on lesson tweaks, parent notes, and feedback. These are small wins from people down the hall, not vendor pitches.",
+          "url": "https://app.smore.com/n/vba1r-gcs-ai-newsletter"
+        }
+      ]
+    },
+    {
+      "name": "Leading & Policy",
+      "kind": "read",
+      "items": [
+        {
+          "source": "U.S. Commission on Civil Rights",
+          "title": "The Rising Use of Artificial Intelligence in K-12 Education",
+          "takeaway": "A federal report on how fast AI is moving into K-12 and the equity and civil rights questions that come with it. Useful context if you want to understand where the national guardrails are headed.",
+          "url": "https://www.usccr.gov/reports/2024/rising-use-artificial-intelligence-k-12-education"
+        },
+        {
+          "source": "EdWeek",
+          "title": "What's In, What's Out for AI, Cellphones, Cybersecurity, and Other Ed-Tech Stuff",
+          "takeaway": "A quick read on which ed-tech trends are heating up and which are cooling off in 2025. Good for staying ahead of the conversation without reading ten separate articles.",
+          "url": "https://www.edweek.org/technology/whats-in-whats-out-for-ai-cellphones-cybersecurity-and-other-ed-tech-stuff/2025/01"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Associated Press",
+          "title": "AI Is a Game Changer for Students With Disabilities",
+          "takeaway": "Text-to-speech, writing support, and other AI tools are opening real doors for students with disabilities. Worth a look if you support kids who need scaffolds to show what they know.",
+          "url": "https://apnews.com/article/artificial-intelligence-students-disabilities-ff1f51379b3861978efb0c1334a2a953"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "kind": "read",
+      "items": [
+        {
+          "source": "EdTech Magazine",
+          "title": "Artificial Intelligence Hub",
+          "takeaway": "A running collection of practical AI-in-K-12 coverage you can bookmark and check when you have a question. Think of it as a starting point, not a one-time read.",
+          "url": "https://edtechmagazine.com/k12/artificial-intelligence"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment.",
+      "items": [
+        {
+          "source": "eSchool News",
+          "title": "Building Ethical AI Usage in K-12 Education",
+          "takeaway": "Lays out how to set ethical AI guardrails at the district, school, classroom, and student level, with questions to ask before you adopt a tool. A good gut-check on privacy and equity before you hit go.",
+          "url": "https://www.eschoolnews.com/digital-learning/2024/12/23/building-ethical-ai-usage-in-k-12-education/"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "Podcast",
+          "title": "ChatEDU: AI in Education",
+          "takeaway": "Short, practical episodes on bringing AI into teaching. Easy to sample one on the drive in and pick up a classroom-ready idea.",
+          "url": "https://podcasts.apple.com/us/podcast/chatedu-ai-in-education/id1728870840"
+        },
+        {
+          "source": "Podcast",
+          "title": "Flipping the Script: English Class Post-ChatGPT",
+          "takeaway": "A frank look at what writing instruction becomes when every student has ChatGPT. Especially worth it for ELA teachers rethinking assignments.",
+          "url": "https://podcasts.apple.com/us/podcast/flipping-the-script-english-class-post-chatgpt-ep-39/id1728870840?i=1000682516137"
+        },
+        {
+          "source": "Podcast",
+          "title": "The AI Education Conversation",
+          "takeaway": "Bigger-picture talks on where AI and schools are heading, in plain language. Good for the why behind all the new tools.",
+          "url": "https://podcasts.apple.com/us/podcast/the-ai-education-conversation/id1667322389"
+        }
+      ]
+    }
+  ],
+  "editor_pick": {
+    "title": "AI Is a Game Changer for Students With Disabilities",
+    "blurb": "Of everything in this issue, this is the one to read. AI is quietly removing barriers for students who have always needed an extra scaffold, and that is the kind of win that makes the whole effort worth it.",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/artificial-intelligence-students-disabilities-ff1f51379b3861978efb0c1334a2a953"
+  }
+}
