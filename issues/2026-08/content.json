@@ -1,0 +1,84 @@
+{
+  "month_year": "August 2026",
+  "issue_no": 21,
+  "slug": "2026-08",
+  "hero_headline": "Back to School: Set the AI Expectations Before Your Students Do",
+  "intro": "Welcome back. AI did not take the summer off: the tools our district already uses shipped big updates, four more states ordered up district AI policies, and the research on what works and what backfires got a lot sharper. Here is what is worth knowing as students return.",
+  "editor_pick": {
+    "title": "Microsoft's new education AI features arrive just in time for the new year",
+    "blurb": "We are a Microsoft district, so this one lands in our own tenant: standards-aligned unit planning in Copilot, per-assignment student AI guidelines in Teams, and a Study and Learn agent built to coach students instead of answering for them. Worth ten minutes before students return, because these will show up inside tools you already open every day.",
+    "source": "Microsoft Education Blog",
+    "url": "https://www.microsoft.com/en-us/education/blog/2026/06/ai-in-education-is-changing-fast-new-microsoft-365-education-experiences-put-learning-first/"
+  },
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "sub": "For the people making the calls",
+      "kind": "read",
+      "items": [
+        {"source": "K-12 Dive", "title": "4 More States Require Districts to Adopt AI Policies", "takeaway": "Idaho, Maryland, Oklahoma, and Virginia just made district AI policies mandatory. The map is filling in, and Tennessee will not stay blank forever.", "url": "https://www.k12dive.com/news/4-more-states-require-districts-to-adopt-ai-policies/824749/"},
+        {"source": "Tech & Learning", "title": "Creating 5 Pillars to Guide AI Use in Your District", "takeaway": "One district boiled its whole AI strategy down to five pillars you could sketch on a napkin. A ready-made starting template.", "url": "https://www.techlearning.com/technology/ai/creating-5-pillars-to-guide-ai-use-in-your-district"},
+        {"source": "The 74", "title": "What School and District Leaders Need to Know Before They Invest in AI", "takeaway": "A pre-purchase checklist for AI contracts, including the question most districts forget to ask: who owns what students create in the tool?", "url": "https://www.the74million.org/article/what-school-and-district-leaders-need-to-know-before-they-invest-in-ai/"},
+        {"source": "Education Week", "title": "At a U.S. Senate Hearing, a Call for AI That Protects Human Judgment in Schools", "takeaway": "Congress is asking the same question the faculty lounge is: how do we use AI without handing over the judgment calls that belong to educators?", "url": "https://www.edweek.org/technology/at-u-s-senate-hearing-a-call-for-ai-that-protects-human-judgment-in-schools/2026/06"},
+        {"source": "Technical.ly", "title": "The Missing Voices in School AI Conversations Are Closest to Learning: Teachers", "takeaway": "AI decisions made without teachers in the room tend to fail in the classroom. Worth reading before your next AI committee meeting.", "url": "https://technical.ly/workforce/ai-schools-teachers-philadelphia-guest-post/"},
+        {"source": "Solutions Review", "title": "The Sharper Question Is Whether Students Should Help Govern AI", "takeaway": "One district gave eighth graders voting seats on its AI policy committee, rules that bind every adult in the building. The case for asking students, not just about them.", "url": "https://solutionsreview.com/edtech/2026/06/23/schools-keep-asking-if-students-should-use-ai-the-sharper-question-is-whether-they-should-help-govern-it/"},
+        {"source": "America Magazine", "title": "Catholic Schools Are Partnering With Google on AI. Can They Protect Student Privacy?", "takeaway": "A whole school system signed on with Google for AI, and the privacy questions critics raised are the ones to ask before any vendor deal.", "url": "https://www.americamagazine.org/politics-society/dispatches/2026/05/06/catholic-schools-ai-google-partnership/"}
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "sub": "Teaching, learning, and the students themselves",
+      "kind": "read",
+      "items": [
+        {"source": "Education Week", "title": "Lessons on AI for Elementary Students: Teach Them Good Habits Now", "takeaway": "Elementary teachers are teaching AI habits the same way they teach hand-raising. Classroom-tested starters for K-5, perfect for week one.", "url": "https://www.edweek.org/technology/lessons-on-ai-for-elementary-students-teach-them-good-habits-now/2026/07"},
+        {"source": "Edutopia", "title": "8 Classroom AI Policies Developed by Teachers", "takeaway": "Real AI policies written by real teachers, with templates you can adapt before students walk in. Setting the norm early beats retrofitting one in October.", "url": "https://www.edutopia.org/article/8-classroom-ai-policies-developed-by-teachers"},
+        {"source": "Tech & Learning", "title": "In an AI Classroom, Content Knowledge Matters More Than Ever", "takeaway": "Your subject expertise is now the quality control layer nothing else can replace. A good reframe if AI has felt like a threat.", "url": "https://www.techlearning.com/technology/ai/in-an-ai-classroom-content-knowledge-matters-more-than-ever"},
+        {"source": "The 74", "title": "Giving Kids Access to AI Tutors Doesn't Mean They'll Use Them", "takeaway": "Students handed a free AI tutor barely logged in. The rollout plan matters more than the license.", "url": "https://www.the74million.org/article/study-giving-kids-access-to-ai-tutors-doesnt-mean-theyll-use-them/"},
+        {"source": "EdSurge", "title": "How a Vinyl Record Resurgence Helped Me Understand the Future of AI in Education", "takeaway": "Why is vinyl booming in the streaming era? Same reason productive struggle still belongs in your classroom.", "url": "https://www.edsurge.com/news/how-a-vinyl-record-resurgence-helped-me-understand-the-future-of-ai-in-education"},
+        {"source": "Hechinger Report", "title": "In the Rush to Adopt New AI Technologies, Let Us Not Forget the Human Touch", "takeaway": "A short reminder that the relationship between you and your students is still the technology that matters most.", "url": "https://hechingerreport.org/opinion-in-the-rush-to-adopt-new-ai-technologies-let-us-not-forget-about-the-human-touch/"},
+        {"source": "San Mateo Daily Journal", "title": "High School Students Teach AI Literacy to Their Community", "takeaway": "Two high schoolers are teaching AI literacy to elementary kids and senior citizens. Your students might be your best AI ambassadors.", "url": "https://www.smdailyjournal.com/news/local/aragon-high-school-students-teach-ai-literacy/article_0dddfbe3-0033-4c61-b44f-abccf5126833.html"}
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "sub": "Things you can actually use",
+      "kind": "read",
+      "items": [
+        {"source": "MagicSchool", "title": "What's New for Teachers This Back to School", "takeaway": "MagicSchool's new-year release: a personalized homescreen, smarter search, and an assistant that routes you to the right tool in plain English. It is already in your launch pad.", "url": "https://www.magicschool.ai/blog-posts/whats-new-b2s-2026-teachers"},
+        {"source": "Mike Tholfsen (YouTube)", "title": "What's New in Microsoft Education: Summer 2026 Updates for Teachers and Students", "takeaway": "A demo-driven walkthrough of the new Copilot education features from the editor's pick above. Watch it once and you are current.", "url": "https://www.youtube.com/watch?v=i_3ucu1o4ig"},
+        {"source": "Google for Education", "title": "ISTE 2026: Classroom Inside Gemini and New Study Notebooks", "takeaway": "Google's fall lineup. Useful context for what students may be using at home, even in a Microsoft district.", "url": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/"},
+        {"source": "Edutopia", "title": "Turning Lesson Ideas Into Usable Resources With AI", "takeaway": "A second grade teacher's simple workflow for turning instructional ideas into ready-to-use materials. Easy to replicate during preplanning.", "url": "https://www.edutopia.org/article/creating-classroom-materials-ai"},
+        {"source": "MiddleWeb", "title": "Sharpen AI Skills While Kids Learn New Words", "takeaway": "Four ready-to-use activities that teach vocabulary and AI skepticism in the same lesson. No extra prep unit required.", "url": "https://www.middleweb.com/53535/sharpen-ai-skills-while-kids-learn-new-words/"},
+        {"source": "The New York Times", "title": "A Teacher Prize With Artificial Intelligence at the Center", "takeaway": "A New York teacher just won a major prize with AI at the heart of the story. Using AI well is becoming an award-worthy teaching skill.", "url": "https://www.nytimes.com/2026/06/17/nyregion/teacher-prize-artificial-intelligence.html"}
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "sub": "The other side of the conversation",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment, and these are the limits and risks worth keeping in front of us.",
+      "kind": "read",
+      "items": [
+        {"source": "Hechinger Report", "title": "Teachers Save Time With AI. Their Students May Pay the Price", "takeaway": "The first randomized trial of AI in real classrooms: untrained AI use made classes less engaging and lowered scores where instruction was already weakest. Training first, tools second.", "url": "https://hechingerreport.org/proof-points-ai-in-teaching/"},
+        {"source": "Education Week", "title": "AI Changes Its Feedback on Students' Writing When It Knows Their Race and Gender", "takeaway": "Same essay, different feedback depending on the student's demographics. Read this before trusting AI to coach or grade writing.", "url": "https://www.edweek.org/technology/ai-changes-its-feedback-on-students-writing-when-it-knows-their-race-gender/2026/06"},
+        {"source": "Mashable", "title": "The Canvas Breach: 275 Million Teachers and Students Exposed", "takeaway": "Hackers got in through free teacher accounts nobody vetted. A warning about every free ed-tech signup on your campus.", "url": "https://mashable.com/article/instructure-canvas-edtech-data-breach-shinyhunters"},
+        {"source": "PCMag", "title": "ChatGPT Knows Too Much: 8 Ways to Lock Down Your Privacy", "takeaway": "Ten minutes of settings changes that close most of the privacy leaks. Do this before you make ChatGPT your co-planner this year.", "url": "https://www.pcmag.com/explainers/chatgpt-knows-too-much-8-ways-to-lock-down-your-privacy"},
+        {"source": "Fortune", "title": "Anne Hathaway Rejected Every Candidate Who Sent a ChatGPT Thank-You Note", "takeaway": "Every finalist sent the identical AI-written note, and none of them got the job. Let AI draft if you like, but never let it replace your own voice.", "url": "https://fortune.com/2026/06/18/anne-hathaway-chatgpt-thank-you-notes-job-candidates-hiring-meryl-streep-career-advice-job-interview/"}
+      ]
+    },
+    {
+      "name": "Press Play",
+      "sub": "For the commute",
+      "kind": "listen",
+      "items": [
+        {"source": "Shifting Schools", "title": "AI in Schools Is Changing: What Leaders Need Now", "takeaway": "A reset for 2026-27: past the tips-and-tricks phase, into AI companions, student wellbeing, and shadow AI. A good framing episode before the year starts.", "url": "https://pod.shiftingschools.com/episode/ai-in-schools-is-changing-what-leaders-need-now/"},
+        {"source": "Easy EdTech Podcast", "title": "4 Chatbot Strategies for Teachers Who Want Better Results From AI", "takeaway": "Four tool-agnostic prompting strategies you can use on day one of lesson prep. Short and immediately useful.", "url": "https://classtechtips.com/2026/06/09/chatbot-strategies-for-teachers-374/"},
+        {"source": "Tech & Learning Podcast", "title": "Finding the Students Schools Miss: How Data, Relationships, and AI Unlock Hidden Potential", "takeaway": "Data plus AI plus human judgment surfaced 2.5 times more students ready for advanced coursework. Your building already has them.", "url": "https://www.techlearning.com/learning/leadership/finding-the-students-schools-miss-how-data-relationships-and-ai-are-unlocking-hidden-potential"}
+      ]
+    }
+  ],
+  "challenge": {
+    "title": "Write your classroom AI expectations in one paragraph before students arrive",
+    "body": "Borrow from the teacher-written policies in this issue, keep it to a single paragraph, and post it where students will see it in week one. Then tell me what you settled on. The teachers in that Edutopia piece all landed on the same lesson: setting the norm early beats policing it later."
+  }
+}
