@@ -44,6 +44,7 @@
       "sub": "Things you can actually use",
       "kind": "read",
       "items": [
+        {"source": "Anthropic", "title": "Introducing Claude for Teachers", "takeaway": "Announced today: verified K-12 teachers in the US get free premium Claude access, with lesson planning aligned to academic standards in all 50 states and connections to tools like Diffit and Canva. Free is the right price to try it.", "url": "https://www.anthropic.com/news/claude-for-teachers"},
         {"source": "MagicSchool", "title": "What's New for Teachers This Back to School", "takeaway": "MagicSchool's new-year release: a personalized homescreen, smarter search, and an assistant that routes you to the right tool in plain English. It is already in your launch pad.", "url": "https://www.magicschool.ai/blog-posts/whats-new-b2s-2026-teachers"},
         {"source": "Mike Tholfsen (YouTube)", "title": "What's New in Microsoft Education: Summer 2026 Updates for Teachers and Students", "takeaway": "A demo-driven walkthrough of the new Copilot education features from the editor's pick above. Watch it once and you are current.", "url": "https://www.youtube.com/watch?v=i_3ucu1o4ig"},
         {"source": "Google for Education", "title": "ISTE 2026: Classroom Inside Gemini and New Study Notebooks", "takeaway": "Google's fall lineup. Useful context for what students may be using at home, even in a Microsoft district.", "url": "https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/"},
