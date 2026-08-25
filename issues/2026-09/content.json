@@ -1,0 +1,262 @@
+{
+  "month_year": "September 2026",
+  "issue_no": 22,
+  "slug": "2026-09",
+  "hero_headline": "Nobody Read It Before It Printed",
+  "intro": "Three things worth your attention this month. A Kentucky district sent home student agendas with a US map that renamed several states, including Kentucky, and told students to tear out 18 pages. Google turned on Gemini in Classroom for students of all ages, which means the setting you checked in May may not be the setting you have now. And Common Sense Media ran 2,600 tests on Google's AI search and says it is not safe for kids yet.",
+  "editor_pick": {
+    "title": "Venecky instead of Kentucky: parents suspect school agendas are AI-generated",
+    "blurb": "A Louisville middle school handed out student agendas with a mangled US map that renamed Kentucky as Venecky, a scrambled periodic table, and moon phases nobody could read. Students were told to tear out pages 19 through 36. Families had already paid a $10 fee for them. The failure here was not a teacher misusing a tool. It was unreviewed vendor output that nobody checked before it went to a printer and then went home with kids. That is the cheapest lesson in this issue, and it costs nothing to apply.",
+    "source": "WDRB",
+    "url": "https://www.wdrb.com/news/venecky-instead-of-kentucky-jcps-middle-school-parents-suspect-school-agendas-are-ai-generated/article_c0d3bef9-bda3-454b-8606-9cf3c5a6178d.html"
+  },
+  "feature_image": {
+    "file": "flyer_same_flyer_everywhere_opt.jpg",
+    "alt": "Parody school flyer titled See the Same Flyer Everywhere, filled with generic school-flyer cliches including Be Engaged, It Takes a Village, and a QR code labeled Scan Me Or Dont Whatever",
+    "label": "The Lighter Side",
+    "caption": "Mean Regression",
+    "credit": "Made by Jason Horne. Any resemblance to a real flyer is entirely the point.",
+    "placement": "after_pick"
+  },
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "sub": "For the people making the calls",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Google Workspace Updates",
+          "title": "Gemini in Google Classroom is now on for students of all ages",
+          "takeaway": "As of August 10 on web and August 17 on mobile, the Gemini tab is available to K-12 students of any age whose admin has granted access, not just 18 and up. Turning it off for under-18 students is an org unit change in the admin console, not a classroom setting. Worth confirming where we stand before someone else discovers it for us.",
+          "url": "https://workspaceupdates.googleblog.com/2026/08/gemini-in-google-classroom-is-expanding-to-users-of-all-ages-with-contextualized-Gemini-starter-prompts-for-students.html"
+        },
+        {
+          "source": "EdSurge",
+          "title": "Department of Education Issues Long-Awaited Edtech Guidance for States and Districts",
+          "takeaway": "The federal line is now recreational versus instructional technology, with a push to build evidence of effectiveness into procurement. No new regulations, so implementation lands on us. Arkansas, Indiana, Louisiana, Michigan, and Texas get named for trying performance-based contracts instead of usage metrics.",
+          "url": "https://www.edsurge.com/news/department-of-education-issues-long-awaited-edtech-guidance-for-states-and-districts"
+        },
+        {
+          "source": "The Guardian",
+          "title": "Teachers need help with AI. A union is offering training, with $23m in funding from big tech",
+          "takeaway": "The AFT wants to train 400,000 educators in five years, funded entirely by Microsoft, OpenAI, and Anthropic. A May session sold out in hours with 150 on the waitlist, and two teachers in the story did not know who paid for it until a reporter told them. Read it for the funding question, not the training question.",
+          "url": "https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training"
+        },
+        {
+          "source": "K-12 Dive",
+          "title": "This New York superintendent is embracing a human-first approach to AI in schools",
+          "takeaway": "A pre-K-6 district of 1,900 students put policy in place first, then let teachers use it. His line about students going home and using it badly if we do not teach it is the argument in one sentence.",
+          "url": "https://www.k12dive.com/news/this-new-york-superintendent-is-embracing-a-human-first-approach-to-ai-in-s/826531/"
+        },
+        {
+          "source": "Education Week",
+          "title": "Facing Techlash, How Should Schools Talk to Parents About Tech Use?",
+          "takeaway": "NSPRA's advice on the parent conversation we are all about to have. Their findings: firsthand testimonials beat institutional messaging, explainer videos should run under a minute, and subject lines that name the child's teacher or building actually get opened.",
+          "url": "https://www.edweek.org/technology/facing-techlash-how-should-schools-talk-to-parents-about-tech-use/2026/08"
+        },
+        {
+          "source": "Forbes",
+          "title": "Schools race to write AI policies. What about student data privacy?",
+          "takeaway": "The policy and the vendor contract are two different documents, and most districts have been writing only the first one. Useful framing before the next renewal lands on your desk.",
+          "url": "https://www.forbes.com/sites/sarahhernholm/2026/07/24/schools-race-to-write-ai-policies-what-about-student-data-privacy/"
+        },
+        {
+          "source": "K-12 Dive",
+          "title": "AI embraced by more students and educators, Instructure finds",
+          "takeaway": "Adoption numbers keep climbing on both sides of the desk. Read it as a baseline for where our own staff and students probably already are.",
+          "url": "https://www.k12dive.com/news/ai-embraced-by-more-students-and-educators-instructure-finds/825826/"
+        },
+        {
+          "source": "WESH 2 · Video",
+          "title": "Chief tech officer of Volusia County schools talks AI in the classroom",
+          "takeaway": "Three and a half minutes of a district CTO explaining classroom AI to a general audience. Worth watching for how he pitches it to parents, which is a harder audience than staff.",
+          "url": "https://www.wesh.com/article/chief-tech-officer-of-volusia-county-schools-talks-ai-in-the-classroom/73415298"
+        },
+        {
+          "source": "EdScoop",
+          "title": "Building AI that teaches: What nine years at Coursera taught me about scaling learning systems",
+          "takeaway": "An engineer who built Coursera's AI systems on why interactive beats passive, citing the ICAP framework across 225 studies. The section on recommendation engines quietly narrowing what learners see is the part worth your time.",
+          "url": "https://edscoop.com/ai-that-teaches-coursera-opinion/"
+        },
+        {
+          "source": "The Bakersfield Californian",
+          "title": "Local school district says it's time to reimagine the role of technology in education",
+          "takeaway": "Panama-Buena Vista Union in California is reassessing what classroom technology is actually for, now that the one-laptop-per-desk vision has been overtaken by phones and AI. Heads up, this one is behind a subscriber paywall.",
+          "url": "https://www.bakersfield.com/news/local-school-district-says-its-time-to-reimagine-the-role-of-technology-in-education/article_d6482eb8-c2bd-492a-97d8-53d3af453c0c.html"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "sub": "Teaching, learning, students",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Associated Press",
+          "title": "Schools are starting to teach AI literacy. For many, that means helping kids see chatbots' flaws",
+          "takeaway": "Thirty-seven states have published AI guidance. Utah made the first full-time state AI education specialist role and has trained over 7,000 teachers, about a third of the state. The best line in it: good AI literacy includes knowing when not to use it.",
+          "url": "https://apnews.com/article/ai-literacy-schools-education-4fb9f2c0240993499870f4f204bf41c1"
+        },
+        {
+          "source": "K-12 Dive",
+          "title": "Teaching students how to Google effectively in the age of AI",
+          "takeaway": "The president of the American Association of School Librarians searched how to fix an iron deficiency and got told to carry rocks in her pocket. Her point is that a wrong AI overview costs students more time, not less, because now they have to find what is wrong.",
+          "url": "https://www.k12dive.com/news/teaching-students-to-search-in-the-age-of-ai/827019/"
+        },
+        {
+          "source": "Tech & Learning",
+          "title": "Assessment After AI: Designing Student Work to Show Real Thinking",
+          "takeaway": "The most practical thing in this issue. Collect the question, the claim, the draft, the peer feedback, the revisions, and the explanation, not just the final product. Also gives you the language for AI may be used for brainstorming but not for drafting.",
+          "url": "https://www.techlearning.com/technology/ai/assessment-after-ai-designing-student-work-to-show-real-thinking"
+        },
+        {
+          "source": "Hechinger Report",
+          "title": "Kids may learn more when AI is combined with mastery learning",
+          "takeaway": "Over 6,000 Tennessee middle schoolers learning fractions. The winning combination was an AI tutor plus being made to get a skill right three times in a row after a mistake, worth about 3 percentage points a week later. The researcher himself is careful not to oversell it, and the paper is not peer reviewed yet.",
+          "url": "https://hechingerreport.org/proof-points-ai-mastery-learning/"
+        },
+        {
+          "source": "EdSurge",
+          "title": "Teachers forge ahead on integrating AI",
+          "takeaway": "In 48 percent of schools the teachers are the ones driving AI, ahead of tech leaders at 17 percent. That is initiative worth supporting, and it is also how you end up with eight different approaches in one building.",
+          "url": "https://www.edsurge.com/news/teachers-forge-ahead-on-integrating-ai"
+        },
+        {
+          "source": "Education Week",
+          "title": "Data literacy skills seen as key for success in the age of AI",
+          "takeaway": "Tennessee was one of three states in the survey. 88 percent said every graduate should be data literate, 58 percent said schools actually provide the chance to get there. That gap is the whole story.",
+          "url": "https://www.edweek.org/technology/data-literacy-skills-seen-as-key-for-success-in-the-age-of-ai/2026/08"
+        },
+        {
+          "source": "CBS News Atlanta",
+          "title": "Georgia Tech professors turn to AI tutors and rethink traditional assignments",
+          "takeaway": "Professors building their own AI tutors, and an honest admission that assigning a 10-page essay is no longer sufficient. Higher ed is working out the assignment redesign problem in public, which saves us some trial and error.",
+          "url": "https://www.cbsnews.com/atlanta/news/georgia-tech-professors-turn-to-ai-tutors-and-rethink-traditional-assignments/"
+        },
+        {
+          "source": "Times Higher Education",
+          "title": "Are universities returning to in-person exams to combat AI cheating?",
+          "takeaway": "Higher ed is quietly giving up on detection software and redesigning the assessment instead. K-12 is about two years behind on the same conversation, so this is a preview.",
+          "url": "https://www.timeshighereducation.com/depth/are-universities-returning-person-exams-combat-ai-cheating"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "sub": "Things you can actually use",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Forbes",
+          "title": "10 Back-to-School AI Updates For Educators",
+          "takeaway": "The fastest way to catch up on what changed over the summer in the tools already on your desktop. Copilot Study and Learn, MagicSchool's new assistant, a Kahoot builder inside ChatGPT, and a Diffit extension that turns any webpage into a handout. Start here if you only read one thing.",
+          "url": "https://www.forbes.com/sites/danfitzpatrick/2026/08/22/10-back-to-school-ai-updates-for-educators/"
+        },
+        {
+          "source": "EdTech Innovation Hub",
+          "title": "Canva opens Code 2.0 to free users with editable AI-built websites and apps",
+          "takeaway": "Code 2.0 is now on the free tier, and the output is editable instead of locked. If you have wanted students to build a working site or a small interactive app without teaching them to code first, this is the cheapest path there.",
+          "url": "https://www.edtechinnovationhub.com/news/canva-opens-code-20-to-free-users-with-editable-ai-built-websites-and-apps"
+        },
+        {
+          "source": "Google Workspace Updates",
+          "title": "Make a copy of a notebook in Gemini Notebook",
+          "takeaway": "You can now copy a notebook with its sources, study guides, flashcards, quizzes, and audio overviews intact. That turns one notebook you built into a class set students each personalize. Your chat history and notes stay behind, which is usually what you want.",
+          "url": "https://workspaceupdates.googleblog.com/2026/08/make-copy-of-notebook-in-gemini-notebook.html"
+        },
+        {
+          "source": "Community Impact",
+          "title": "Katy ISD launches artificial intelligence framework for 2026-27",
+          "takeaway": "The clearest published answer yet to what exactly is my grade level allowed to do. No chat tools K-6, supervised use in 7th, approved tools with teacher authorization and citation in 8-12. They named the tools instead of speaking in principles, which is the hard part.",
+          "url": "https://communityimpact.com/katy-fulshear/education/katy-isd-launches-artificial-intelligence-framework-for-2026-27-school-year/"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "sub": "The watch-outs",
+      "kind": "read",
+      "caution": true,
+      "note": "Not reasons to avoid AI. Reasons to go in with your eyes open.",
+      "items": [
+        {
+          "source": "Mashable",
+          "title": "Should kids use Google AI search? These experts say no.",
+          "takeaway": "Common Sense Media ran 2,600 interactions on accounts built to look like an 11 year old and a 15 year old. On prompts that warranted a crisis referral, AI Overview surfaced one 58 percent of the time against a 95 percent standard. Handed a homework assignment 180 times, AI Mode did the whole thing every single time.",
+          "url": "https://mashable.com/tech/google-ai-search-ai-mode-unsafe-for-kids-teens"
+        },
+        {
+          "source": "Hechinger Report",
+          "title": "Faster solutions, lower test scores: how AI is eroding math skills",
+          "takeaway": "Four million students on ALEKS. Kids got better at word problems in practice and worse at the same problems on a proctored test, and time per problem dropped 31 percent for high schoolers. The effect showed up only where AI could do the work, and vanished under supervision.",
+          "url": "https://hechingerreport.org/proof-points-ai-eroding-math-skills/"
+        },
+        {
+          "source": "Forbes",
+          "title": "University of Chicago bans AI, other technology, in more courses",
+          "takeaway": "Chicago made its second-year social sciences core sequence device-free, no laptops, no phones, no wearables, no recording. They are calling them analog courses. You do not have to agree with it to notice that a serious institution decided the tradeoff was worth it.",
+          "url": "https://www.forbes.com/sites/michaeltnietzel/2026/08/24/the-university-of-chicago-bans-ai-other-technology-in-more-courses/"
+        },
+        {
+          "source": "The Christian Science Monitor",
+          "title": "Education's AI gold rush comes with risks for students",
+          "takeaway": "A $730 million market headed for $18.5 billion, with no federal standard for whether any of it works. The finding that matters: students improve while using the tool and drop off once it is taken away.",
+          "url": "https://www.csmonitor.com/USA/Education/2026/0807/ai-risks-schools-students"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "sub": "Worth a commute",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "KQED · Life, Automated",
+          "title": "Why AI Might Not Change Education Much at All (With Justin Reich)",
+          "takeaway": "MIT's Justin Reich interviewed 120 teachers and students and lands somewhere useful: every generation of school technology got oversold, and the gains that stick come from communities, not tools. Edison predicted textbooks would be gone by 1923. Worth the drive.",
+          "url": "https://www.kqed.org/news/12095781/why-ai-might-not-change-education-much-at-all-with-justin-reich"
+        },
+        {
+          "source": "Panorama Education",
+          "title": "The Leading & Learning with AI Podcast",
+          "takeaway": "K-12 leaders talking implementation rather than possibility. New episodes every other Monday, and the district-level episodes are the useful ones.",
+          "url": "https://www.panoramaed.com/podcast"
+        }
+      ]
+    }
+  ],
+  "challenge": {
+    "title": "What did you hand out without reading all the way through?",
+    "body": "No judgment, and no names. The Kentucky agenda story is funny because it is familiar. If AI drafted something for you this fall, what is your actual check before it goes to students or families?"
+  },
+  "deck": {
+    "label": "Analog Inspiration",
+    "title": "Two cards to try this month",
+    "note": "I had the privilege to attend ETSU's teaching and learning conference this fall, and the keynote speaker had these really cool \"Analog Inspiration\" cards. I'm going to be posting two a month for you: one for students; one for teachers. I hope you enjoy these. They are a way to deal with AI while retaining a lot of analog in the process.",
+    "quote": {
+      "lead": "From a GCS teacher who wrote her own AI expectations for first graders:",
+      "text": "AI is like a helper. It can give us ideas and answer questions, but our brains are the most important part of learning. I will use AI to help me learn. I will think first, ask kind questions, check my answers, keep myself safe, and always do my own best work.",
+      "attribution": "Ellie, first grade, GCS"
+    },
+    "cards": [
+      {
+        "name": "Friction",
+        "audience": "Teacher move",
+        "image": "card-friction_opt.png",
+        "image_alt": "Analog Inspiration card titled Friction, instructing teachers to complete one of their own assignments using AI to bypass learning, then ask what changes would introduce new complexity or productive friction",
+        "headline": "Try to beat your own assignment with AI.",
+        "body": "Take one assignment you already give and use AI to finish it in a way that skips the learning entirely. Then ask what you would change to add new complexity, or a moment of productive friction, so the thinking still has to happen somewhere.",
+        "try": "Start with the assignment you're tired of grading. This is usually the best AI use-case."
+      },
+      {
+        "name": "Critical Thinking",
+        "audience": "Student move",
+        "image": "card-critical-thinking_opt.png",
+        "image_alt": "Analog Inspiration card titled Critical Thinking, instructing students to write their own answer to an open-ended question first, then ask AI the same question and compare what is similar, what is missing, and what new questions come up",
+        "headline": "Write first, then ask AI, then compare.",
+        "body": "Pose an open-ended question from your lesson and give students a few minutes to write their own answer. Then have them ask AI the same question and compare: what is similar, what is missing, what new questions come up. Pair them up to discuss, then debrief as a class.",
+        "try": "Writing first is the trick here. It's a good experiment."
+      }
+    ]
+  }
+}
