@@ -83,6 +83,12 @@
           "title": "Local school district says it's time to reimagine the role of technology in education",
           "takeaway": "Panama-Buena Vista Union in California is reassessing what classroom technology is actually for, now that the one-laptop-per-desk vision has been overtaken by phones and AI. Heads up, this one is behind a subscriber paywall.",
           "url": "https://www.bakersfield.com/news/local-school-district-says-its-time-to-reimagine-the-role-of-technology-in-education/article_d6482eb8-c2bd-492a-97d8-53d3af453c0c.html"
+        },
+        {
+          "source": "eSchool News",
+          "title": "Building inclusive school communities through integrated digital strategy",
+          "takeaway": "The case for handling family translation inside one platform instead of five, so a Spanish speaking family gets the same message at the same moment everyone else does. It is written by someone at Finalsite, so read the practices and skip the pitch. The details are still useful: translated text runs 20 to 30 percent longer than English and quietly breaks your layout, and Yakima gave Spanish its own subdomain instead of burying it in a dropdown.",
+          "url": "https://www.eschoolnews.com/educational-leadership/2026/08/26/building-inclusive-school-communities-through-integrated-digital-strategy/"
         }
       ]
     },
@@ -138,6 +144,18 @@
           "title": "Are universities returning to in-person exams to combat AI cheating?",
           "takeaway": "Higher ed is quietly giving up on detection software and redesigning the assessment instead. K-12 is about two years behind on the same conversation, so this is a preview.",
           "url": "https://www.timeshighereducation.com/depth/are-universities-returning-person-exams-combat-ai-cheating"
+        },
+        {
+          "source": "Education Week",
+          "title": "How Teens Are Using AI: Key Takeaways for Educators",
+          "takeaway": "Seventy percent of students use AI for schoolwork and only 28 percent say a teacher has ever talked with them about using it responsibly. That gap is the whole article. The equity finding is the one that stayed with me: students whose parents did not finish a four year degree are more likely to use it just to get the answer, while students with IEPs and 504 plans are the ones customizing it best.",
+          "url": "https://www.edweek.org/technology/how-teens-are-using-ai-key-takeaways-for-educators/2026/08"
+        },
+        {
+          "source": "Edutopia",
+          "title": "5 AI Activities to Build Student Agency",
+          "takeaway": "Five start of year activities for grades 3 through 8 where AI helps students name their own strengths, sort the class into a set of norms they actually voted on, and map a goal for the year. The tool does the sorting and the drawing. The kids do the thinking, which is the right split.",
+          "url": "https://www.edutopia.org/article/5-ai-activities-boost-student-agency"
         }
       ]
     },
