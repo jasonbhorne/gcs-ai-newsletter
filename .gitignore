@@ -1,0 +1,6 @@
+# Local backups written by the newsletter builder workflow; never publish these
+*.bak-*
+*.bak
+
+# macOS
+.DS_Store
