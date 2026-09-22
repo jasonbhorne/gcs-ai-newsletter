@@ -3,7 +3,7 @@
   "issue_no": 23,
   "slug": "2026-10",
   "hero_headline": "The backlash got specific",
-  "intro": "Last month the argument about AI in schools was mostly opinion. This month it has numbers, dates, and contracts attached. New York City shut off generative AI for about 600,000 students through 8th grade, Los Angeles followed within hours, and the teachers unions got Microsoft to sign a student data privacy standard that takes effect November 1. The OECD's PISA results landed the same week, with a 28 point science gap between students who never use AI and those who use it daily, and the head of PISA wrote it up in The Economist under a headline that does not hedge. The Gemini in Classroom change we flagged in September is now getting the national coverage it deserved, and it is still the one setting worth confirming on our own system.",
+  "intro": "Last month the argument about AI in schools was mostly opinion. This month it has numbers, dates, and contracts attached. New York City shut off generative AI for about 600,000 students through 8th grade, Los Angeles followed within hours, and the teachers unions got Microsoft to sign a student data privacy standard that takes effect November 1. The OECD's PISA results landed the same week, with a 28 point science gap between students who never use AI and those who use it daily, and the head of PISA wrote it up in The Economist under a headline that does not hedge. New this issue: a section for everyone who runs the buildings, buses, kitchens, offices, and network, because this goes to all of us and most of it has been written for classrooms. The Gemini in Classroom change we flagged in September is now getting the national coverage it deserved, and it is still the one setting worth confirming on our own system.",
   "editor_pick": {
     "title": "Teachers unions announce AI safety agreement with Microsoft",
     "blurb": "This is the rare policy story with a date and an action attached. The AFT negotiated a legally enforceable standard with Microsoft: no training AI models on student or educator data, no selling it, no advertising use, and the district keeps control over retention and deletion. It takes effect November 1, it is open to every district in the country, and it can be added to a new or existing Microsoft contract without renegotiating anything. We run on Microsoft. That makes this a question to ask, not a project to start.",
@@ -135,6 +135,37 @@
       ]
     },
     {
+      "name": "Beyond the Classroom",
+      "sub": "For maintenance, nutrition, transportation, HR, finance, and technology",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Microsoft Security",
+          "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
+          "takeaway": "For the business office, and for anyone who approves a payment. Over three days in August, one campaign sent more than a million emails to accounts payable staff, most of them in the US, impersonating each company's CEO and asking for an ACH payment of about $50,000 on a fake invoice. Microsoft found signs the templates were built with AI. The defense has not changed: no new bank details and no rush payment without a phone call to a number you already had.",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/"
+        },
+        {
+          "source": "The Hacker News",
+          "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+          "takeaway": "If you touch the print servers, read this today. PaperCut patched two flaws that were being actively exploited, and the group behind it breached at least 395 organizations in 48 countries, most of them in US education. The part that belongs in an AI newsletter: the attackers ran hundreds of AI agents to do it. Anyone on an emergency patch build should move to the tested maintenance release (26.0.5, 25.0.13, or 24.1.10).",
+          "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html"
+        },
+        {
+          "source": "CBS Colorado",
+          "title": "27J Schools incorporate AI system to detect guns, as Colorado students begin school year",
+          "takeaway": "A Colorado district put AI weapon detection on the outdoor cameras at its high schools. Parking lots and athletic fields only, no facial recognition, and when it flags a drawn gun it alerts a person who decides what happens next. About $170,000 over three years, grant funded. Worth knowing the price and the boundaries they drew before a vendor quotes one to us. For the safety and facilities side.",
+          "url": "https://www.cbsnews.com/colorado/news/27j-schools-ai-system-detect-gunscolorado-students/"
+        },
+        {
+          "source": "School Transportation News",
+          "title": "AI Takes a Larger Role in School Transportation Management",
+          "takeaway": "School Transportation News asked transportation staff at its summer expo how they actually use AI. Mostly email and parent communication. Only 9 percent use it for routing, and 68 percent said the barrier is that nobody trained them. Small survey, 23 people, so treat it as a temperature check, but it matches what I hear: right now the useful part is the writing, not the routing. For the transportation office.",
+          "url": "https://stnonline.com/special-reports/ai-takes-a-larger-role-in-school-transportation-management/"
+        }
+      ]
+    },
+    {
       "name": "Free Training",
       "sub": "No cost, no purchase order",
       "kind": "read",
@@ -237,8 +268,8 @@
     }
   ],
   "challenge": {
-    "title": "Could a student in your room explain your AI rule?",
-    "body": "The Edutopia piece in the classroom section has teachers writing AI rules with students instead of for them. So here is the test. If I walked into your classroom and asked a student what they are allowed to use AI for, what would they say? Tell me what your rule actually is, and whether it would survive that question. No names, no judgment. I am collecting these to see how far apart we are."
+    "title": "What would you hand to AI tomorrow, and what would you never let it touch?",
+    "body": "This one is for everybody on the list: teachers, bus drivers, cafeteria managers, custodians, the business office, the front desk. Name one task in your job you would let AI take the first pass on, and one you would never let it near. No names, no judgment. I want to see where the lines are across the district, not just in classrooms."
   },
   "deck": {
     "label": "Analog Inspiration",
