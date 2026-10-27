@@ -1,0 +1,232 @@
+{
+  "month_year": "November 2026",
+  "issue_no": 24,
+  "slug": "2026-11",
+  "hero_headline": "Everybody is experimenting. Almost nobody can measure it.",
+  "intro": "Two things landed this month. Districts are admitting out loud that they cannot tell whether their AI pilots are working, and Tennessee published what it actually expects from us. There is also a training video from me at the top, the first of one a month.",
+
+  "editor_pick": {
+    "title": "Tennessee published its own guiding principles for AI in schools",
+    "blurb": "Seven principles from SCORE, written for Tennessee leaders, not borrowed from a national think tank. Worth reading because it names the state policy we are already living under, including Public Chapter 808, which required every district serving K-5 to adopt a policy on instructional device use. We adopted ours in June as Policy 4.215.",
+    "source": "Tennessee SCORE",
+    "url": "https://tnscore.org/assets/documents/AI-Guiding-Principles-Memo-FINAL100726.pdf"
+  },
+
+  "video": {
+    "url": "https://www.loom.com/share/c1353fe4acee4b9fabcd38300f70cc8d",
+    "label": "Training Video",
+    "title": "Using Claude for Student Data Analysis",
+    "blurb": "Twelve minutes, start to finish. I clean a benchmark file and a gradebook file, then build parent-teacher conference sheets, a class analysis with groupings, and IEP prep. The first step is the one that matters most: student names come out before anything gets uploaded, and I show exactly how. The example uses 8th grade, but the method is the same for any grade, any subject, any data you already pull.",
+    "caption": "Students in the demo are made up. Real names never go into a chatbot.",
+    "doc": {
+      "url": "https://jasonbhorne.github.io/gcs-ai-newsletter/guides/claude-student-data-analysis.pdf",
+      "text": "Get the step-by-step guide"
+    },
+    "placement": "after_pick"
+  },
+
+  "sections": [
+    {
+      "name": "Leading & Policy",
+      "sub": "For the people making the calls",
+      "kind": "read",
+      "items": [
+        {
+          "source": "NPR",
+          "title": "Schools struggle to measure how much AI experiments are helping",
+          "takeaway": "A Dayton alternative school built a chatbot students give advice to, and the consultant who designed it says the best he can measure is perception. If you are running any pilot, this is the honest version of where the evidence stands.",
+          "url": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping"
+        },
+        {
+          "source": "Newsweek",
+          "title": "Map Shows States That Are Trying to Limit AI in Schools",
+          "takeaway": "Four states enacted education AI laws this year and New York City put a one-year moratorium on AI below 9th grade. This is the quick map if a board member asks what everyone else is doing.",
+          "url": "https://www.newsweek.com/ai-politics/map-shows-states-that-are-trying-to-get-ai-out-of-schools-12574251"
+        },
+        {
+          "source": "The 74 (opinion)",
+          "title": "While NYC and LA Schools Draw a Line on AI, Alabama Has a Plan",
+          "takeaway": "The argument is that a moratorium is a pause, not a plan, and Alabama chose to teach AI from kindergarten instead. Useful counterweight to the restriction headlines.",
+          "url": "https://www.the74million.org/article/while-nyc-and-la-schools-draw-a-line-on-ai-alabama-has-a-plan"
+        },
+        {
+          "source": "K-12 Dive",
+          "title": "High schoolers oppose full-day cellphone bans amid safety concerns",
+          "takeaway": "Students in a Hopelab survey backed limits during class but pushed back hard on bell-to-bell bans, mostly over reaching a parent in an emergency. Relevant to any phone policy conversation.",
+          "url": "https://www.k12dive.com/news/high-schoolers-oppose-full-day-cellphone-bans-amid-safety-concerns/833512"
+        }
+      ]
+    },
+    {
+      "name": "In the Classroom",
+      "sub": "Teaching, learning, and the students themselves",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Tech & Learning",
+          "title": "Fact-Checking Google's AI Overviews With Students",
+          "takeaway": "A ready-to-run lesson: have students query AI Overviews on something they know well, hunt for the errors, then trace the sources. AI literacy with no new tool to buy.",
+          "url": "https://www.techlearning.com/technology/ai/fact-checking-googles-ai-overviews-with-students"
+        },
+        {
+          "source": "EdTech Magazine",
+          "title": "Drone Education Programs Prepare Students for a Future in Flight",
+          "takeaway": "Three districts walk through building a drone pathway where students sit for the FAA Part 107 certificate before they graduate, including who pays for the exam. One for the CTE conversation.",
+          "url": "https://edtechmagazine.com/k12/article/2026/10/drone-education-programs-prepare-students-future-flight"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Wins",
+      "sub": "Things you can actually use",
+      "kind": "read",
+      "items": [
+        {
+          "source": "EdSurge",
+          "title": "Why AI Made Me a Better Principal",
+          "takeaway": "A principal with a long commute walks through her actual routine, including turning her weekly staff message into a short audio version. She also says plainly what she never puts into a chatbot.",
+          "url": "https://www.edsurge.com/news/why-ai-made-me-a-better-principal"
+        },
+        {
+          "source": "EdTech Innovation Hub",
+          "title": "Google expands AI research tools with classroom simulations and public document review",
+          "takeaway": "Google opened a teacher pilot for AI-built science simulations in physics, chemistry, biology and math. The application path is in the article, so this is a sign-up, not a purchase.",
+          "url": "https://www.edtechinnovationhub.com/news/google-expands-ai-research-tools-with-classroom-simulations-and-public-document-review"
+        }
+      ]
+    },
+    {
+      "name": "Beyond the Classroom",
+      "sub": "For maintenance, nutrition, transportation, HR, finance, and technology",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Fairfax County Public Schools",
+          "title": "Fraudulent Emails Targeting School District Vendors",
+          "takeaway": "Scammers posing as district staff asked vendors for a 450 dollar refundable deposit to clear a fake compliance problem, with a 30 day disqualification threat. If you touch payables, verify by phone using a number you already have, never the one in the email.",
+          "url": "https://www.fcps.edu/fraudulent-emails-targeting-fairfax-county-public-schools-vendors"
+        },
+        {
+          "source": "eSchool News",
+          "title": "What E-Rate makes possible: Four lessons from Lenoir City Schools",
+          "takeaway": "A Tennessee CTO on why E-Rate is what makes a six to seven year network refresh possible in a one to one district. Co-written with a vendor, so read it as a case for the program.",
+          "url": "https://www.eschoolnews.com/it-leadership/2026/09/28/what-e-rate-makes-possible-four-lessons-from-lenoir-city-schools/"
+        },
+        {
+          "source": "eSchool News",
+          "title": "E-Rate's quiet impact on student success",
+          "takeaway": "A Florida technology director's short argument for the program, aimed at anyone building a funding case. No numbers in it, just the reasoning.",
+          "url": "https://www.eschoolnews.com/it-leadership/2026/10/08/e-rates-quiet-impact-on-student-success"
+        },
+        {
+          "source": "Tech & Learning",
+          "title": "How CTOs Can Use AI To Benefit Their School Districts",
+          "takeaway": "A Texas CTO uses AI for secondary master scheduling and weather rescheduling, and an employee built a Chromebook inventory system in a day. Concrete jobs, not a vision statement.",
+          "url": "https://www.techlearning.com/learning/leadership/how-ctos-can-use-ai-to-benefit-their-school-districts"
+        },
+        {
+          "source": "eSchool News",
+          "title": "Standardize to sustain: Building a resilient K-12 technology strategy",
+          "takeaway": "The case for standardizing devices district wide instead of school by school, with the hidden costs named: parts, support staffing, and training. Written by a Dell employee, so weigh it accordingly.",
+          "url": "https://www.eschoolnews.com/it-leadership/2026/10/12/standardize-to-sustain-building-a-resilient-k-12-technology-strategy/"
+        },
+        {
+          "source": "Education Week",
+          "title": "6 Tips for AI Translation in Schools",
+          "takeaway": "For any office sending notices home to families who do not read English. Fair warning, the six tips sit behind an email form; the intro alone makes the point that these tools quietly change what a message means.",
+          "url": "https://www.edweek.org/technology/6-tips-for-ai-translation-in-schools/2026/10"
+        }
+      ]
+    },
+    {
+      "name": "Proceed With Caution",
+      "sub": "The other side of the conversation",
+      "caution": true,
+      "note": "A standing spot for the honest watch-outs. AI is a tool, not a shortcut around judgment, and these are the limits and risks worth keeping in front of us.",
+      "kind": "read",
+      "items": [
+        {
+          "source": "Los Angeles Times via GovTech",
+          "title": "Testing Company Data Breach Affects Millions of Calif. Students",
+          "takeaway": "A state testing vendor was breached and student records went out the door: names, birthdates, addresses, student IDs, disability and program eligibility. No Social Security or financial data. The lesson is that your vendor's security is your security.",
+          "url": "https://www.govtech.com/education/k-12/testing-company-data-breach-affects-millions-of-calif-students"
+        },
+        {
+          "source": "Edutopia",
+          "title": "When Even the Best AI Detection Tools Fail, Return to Basics",
+          "takeaway": "Detection keeps losing to the tools built to defeat it, which is why teachers are moving back toward in-class writing and process you can see. Read it before buying a detector.",
+          "url": "https://www.edutopia.org/article/when-even-best-ai-detection-tools-fail-return-basics"
+        },
+        {
+          "source": "Edutopia",
+          "title": "5 \"Good\" AI Use Cases That Are Actually Bad for Students",
+          "takeaway": "Brainstorming, thesis writing, research, summarizing, first drafts. Five uses that look like support and may skip the exact thinking the assignment was built to produce.",
+          "url": "https://www.edutopia.org/article/5-good-ai-use-cases-that-are-actually-bad-for-students"
+        },
+        {
+          "source": "EdTech Innovation Hub",
+          "title": "ChatGPT alerted parents in just 5% of simulated high-risk teen conversations",
+          "takeaway": "Researchers ran 300 simulated teen conversations and a parent alert fired 15 times, most from a single scenario. Still a preprint, but do not assume families get a warning.",
+          "url": "https://www.edtechinnovationhub.com/news/chatgpt-alerted-parents-in-just-5-of-simulated-high-risk-teen-conversations-study-finds"
+        },
+        {
+          "source": "eSchool News",
+          "title": "I run an edtech platform I hope you barely use",
+          "takeaway": "An edtech founder argues most of it should be used less, and sparingly at that. Short, and a useful gut check for anyone approving an app request.",
+          "url": "https://www.eschoolnews.com/innovative-teaching/2026/10/22/i-run-an-edtech-platform-i-hope-you-barely-use/"
+        }
+      ]
+    },
+    {
+      "name": "Press Play",
+      "sub": "For the commute",
+      "kind": "listen",
+      "items": [
+        {
+          "source": "This Week with EdSurge, 18 min",
+          "title": "Who Gets to Build AI Infrastructure for Schools?",
+          "takeaway": "On checking whether a vendor's AI-generated lessons are actually aligned to standards, and what to ask before you buy. Note the show discloses the guest's organization funds EdSurge.",
+          "url": "https://podcasts.apple.com/us/podcast/who-gets-to-build-ai-infrastructure-for-schools/id972239500?i=1000796303880"
+        },
+        {
+          "source": "Shifting Schools",
+          "title": "When Should Students Use AI? Let Them Design a Game",
+          "takeaway": "Students pitch a board game and defend where they used AI and where they deliberately did not. The task lifts into a unit without buying anything.",
+          "url": "https://pod.shiftingschools.com/episode/when-should-students-use-ai-let-them-design-a-game/"
+        }
+      ]
+    }
+  ],
+
+  "deck": {
+    "label": "Analog Inspiration",
+    "title": "Two cards for this month",
+    "note": "DRAFT, Jason to rewrite: two moves from the Analog Inspiration deck, one for teachers and one to hand to students.",
+    "cards": [
+      {
+        "name": "Authenticity",
+        "audience": "Teacher move",
+        "image": "card-authenticity.png",
+        "image_alt": "Authenticity card: share your learning outcomes with AI and ask it for three authentic assessment ideas that emphasize real world application and mirror the tasks, scenarios and deliverables students will meet in their working lives.",
+        "headline": "Ask for assessments that look like real work",
+        "body": "Give AI your learning outcomes and ask for three different authentic assessment ideas built on them. Tell it the assessments should emphasize real world application and mirror the tasks, scenarios, workflows and deliverables students will actually run into later, at work and in life.",
+        "try": "DRAFT, Jason to rewrite: take one unit you already teach, paste in the standards, and see if any of the three is better than the test you have been giving."
+      },
+      {
+        "name": "Bias",
+        "audience": "Student move",
+        "image": "card-bias.png",
+        "image_alt": "Bias card: students act as AI auditors, experimenting with tools to expose errors, find inconsistencies and uncover assumptions in their subject area, then sharing their audits with peers.",
+        "headline": "Put students to work as AI auditors",
+        "body": "Have students dig into how AI tools get things wrong, then test the tools themselves to surface errors, inconsistencies and buried assumptions in their own subject. What words does it use in this field? Whose perspective is missing from the answer? What does an image generator assume when you ask it for a picture? Then have them share what they found with the class.",
+        "try": "DRAFT, Jason to rewrite: works in any subject, and students are usually faster at breaking these tools than we are."
+      }
+    ]
+  },
+
+  "challenge": {
+    "title": "Name the most repetitive twenty minutes of your week",
+    "body": "Everybody has one. The same email you retype, the same form, the same list you rebuild from scratch. Tell me what yours is and whether you have tried handing the first pass to AI. Bus drivers, bookkeepers, cafeteria managers and third grade teachers all welcome, and the answers shape what we train on next.",
+    "url": "https://forms.microsoft.com/r/5iemp14y6m"
+  }
+}
